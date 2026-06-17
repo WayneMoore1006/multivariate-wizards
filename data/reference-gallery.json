@@ -1,0 +1,1515 @@
+[
+ {
+  "ch": "Ch5",
+  "years": [
+   "2020",
+   "2019",
+   "2016",
+   "2015"
+  ],
+  "en": "For sample size in multiple regression, the preferred ratio of observations to variables is 15 or ___ to 1.",
+  "zh": "多元迴歸分析中，觀測值與變項數之建議比例為15或___比1。",
+  "blanks": [
+   [
+    "20"
+   ]
+  ],
+  "answerEN": "20",
+  "answerZH": "20",
+  "explainEN": "A ratio of <strong>20 observations per predictor variable</strong> is the preferred guideline. This ensures sufficient statistical power and stable coefficient estimates. The absolute minimum is 5 per variable.",
+  "explainZH": "建議比例為每個預測變項至少<strong>20個觀測值</strong>，確保統計檢定力充足、迴歸係數估計穩定。絕對最低標準為每個變項5個觀測值。"
+ },
+ {
+  "ch": "Ch5",
+  "years": [
+   "2019"
+  ],
+  "en": "Research problems appropriate for multiple regression are ___ and ___.",
+  "zh": "適合使用多元迴歸的研究問題為___與___。",
+  "blanks": [
+   [
+    "prediction",
+    "預測"
+   ],
+   [
+    "explanation",
+    "解釋"
+   ]
+  ],
+  "answerEN": "① Prediction（預測）\n② Explanation（解釋）",
+  "answerZH": "①預測 ②解釋",
+  "explainEN": "Multiple regression serves two main purposes: <strong>Prediction</strong> — using the model to forecast future values; <strong>Explanation</strong> — understanding the relative impact of each independent variable on the dependent variable.",
+  "explainZH": "多元迴歸的兩大用途：<strong>預測（Prediction）</strong>——用模型預測新觀測值；<strong>解釋（Explanation）</strong>——評估各自變項對應變項的相對影響程度。"
+ },
+ {
+  "ch": "Ch5",
+  "years": [
+   "2020",
+   "2019",
+   "2016",
+   "2015"
+  ],
+  "en": "Assumptions in multiple regression include ___, constant variance of the error terms, independence of the error terms, and normality of the error term distribution.",
+  "zh": "多元迴歸的假設包括___、誤差項的變異數同質性、誤差項的獨立性、誤差項分佈的常態性。",
+  "blanks": [
+   [
+    "linearity",
+    "線性關係",
+    "linearity of the relationship"
+   ]
+  ],
+  "answerEN": "Linearity（線性關係）",
+  "answerZH": "線性關係",
+  "explainEN": "The four assumptions of multiple regression are: <strong>Linearity</strong>, <strong>Constant variance (Homoscedasticity)</strong>, <strong>Independence of error terms</strong>, <strong>Normality</strong> of error distribution. Linearity means the relationship between predictors and outcome is linear.",
+  "explainZH": "多元迴歸四大假設：<strong>線性關係（Linearity）</strong>、誤差項變異數同質性（Homoscedasticity）、誤差項獨立性、誤差項常態性。線性假設指自變項與應變項之間的關係為線性。"
+ },
+ {
+  "ch": "Ch5",
+  "years": [
+   "2019"
+  ],
+  "en": "General approaches to variable selection include ___, ___, and ___.",
+  "zh": "變項選擇的一般方法包括___、___與___。",
+  "blanks": [
+   [
+    "confirmatory",
+    "驗證式",
+    "confirmatory approach"
+   ],
+   [
+    "sequential search",
+    "sequential search methods",
+    "逐步搜尋法"
+   ],
+   [
+    "combinatorial",
+    "combinatorial approach",
+    "組合式方法"
+   ]
+  ],
+  "answerEN": "① Confirmatory（驗證式）\n② Sequential Search Methods（逐步搜尋法）\n③ Combinatorial Approach（組合式方法）",
+  "answerZH": "①驗證式 ②逐步搜尋法 ③組合式方法",
+  "explainEN": "Three approaches: <strong>Confirmatory</strong> — theory-driven, pre-specifies the model; <strong>Sequential Search</strong> — stepwise (forward/backward) selection; <strong>Combinatorial</strong> — evaluates all possible subsets of variables.",
+  "explainZH": "<strong>驗證式（Confirmatory）</strong>——依理論先設定模型；<strong>逐步搜尋法（Sequential Search）</strong>——依序加入或刪除變項；<strong>組合式（Combinatorial）</strong>——評估所有可能的變項子集組合。"
+ },
+ {
+  "ch": "Ch5",
+  "years": [
+   "2020",
+   "2019",
+   "2016",
+   "2015"
+  ],
+  "en": "___ computes a regression equation with all independent variables, then deletes variables that do not contribute significantly.",
+  "zh": "___先使用所有自變項建立方程式，再刪除不顯著貢獻的變項。",
+  "blanks": [
+   [
+    "backward elimination",
+    "向後消除法",
+    "backward elimination method"
+   ]
+  ],
+  "answerEN": "Backward Elimination（向後消除法）",
+  "answerZH": "向後消除法",
+  "explainEN": "<strong>Backward Elimination</strong> starts with all predictor variables in the model, then iteratively removes the least significant one (highest p-value above threshold) until all remaining variables are significant.",
+  "explainZH": "<strong>向後消除法（Backward Elimination）</strong>：先將所有自變項納入迴歸方程，再逐步刪除p值最大（即最不顯著）的變項，直到模型中所有變項均達顯著為止。"
+ },
+ {
+  "ch": "Ch5",
+  "years": [
+   "2020",
+   "2019",
+   "2016",
+   "2015"
+  ],
+  "en": "To test that the variation explained by the regression model is more than variation explained by the average, the ___ is used.",
+  "zh": "為檢驗迴歸模型解釋的變異量是否顯著大於平均值所解釋的，使用___。",
+  "blanks": [
+   [
+    "f test",
+    "f-test",
+    "f統計量",
+    "f ratio",
+    "f檢定"
+   ]
+  ],
+  "answerEN": "F Test（F 檢定）",
+  "answerZH": "F 檢定",
+  "explainEN": "The <strong>F-test</strong> assesses whether the overall regression model explains a statistically significant proportion of variance in the dependent variable, compared to simply using the mean. A significant F indicates the model has predictive power.",
+  "explainZH": "<strong>F 檢定</strong>：檢驗整體迴歸模型是否比單純使用應變項平均值解釋更多的變異。若F值顯著，代表該迴歸模型具有預測能力。"
+ },
+ {
+  "ch": "Ch5",
+  "years": [
+   "2020",
+   "2019",
+   "2016",
+   "2015"
+  ],
+  "en": "Standardized regression coefficient is also called ___ coefficient.",
+  "zh": "標準化迴歸係數也稱為___係數。",
+  "blanks": [
+   [
+    "beta",
+    "beta coefficient",
+    "β",
+    "β係數"
+   ]
+  ],
+  "answerEN": "Beta（β 係數）",
+  "answerZH": "Beta 係數（β 係數）",
+  "explainEN": "The <strong>Beta (β) coefficient</strong> standardizes regression coefficients by expressing them in standard deviation units. This allows direct comparison of the relative importance of different predictor variables regardless of their original scales.",
+  "explainZH": "<strong>Beta係數（β係數）</strong>：以標準差為單位表達的標準化迴歸係數，可直接比較不同自變項的相對重要性，排除量綱差異的干擾。"
+ },
+ {
+  "ch": "Ch5",
+  "years": [
+   "2022",
+   "2021"
+  ],
+  "en": "___ is the exclusion of relevant and inclusion of irrelevant independent variables.",
+  "zh": "___是指排除相關自變項、納入不相關自變項。",
+  "blanks": [
+   [
+    "specification error",
+    "規格錯誤",
+    "model specification error"
+   ]
+  ],
+  "answerEN": "Specification Error（規格錯誤）",
+  "answerZH": "規格錯誤（Specification Error）",
+  "explainEN": "<strong>Specification Error</strong> occurs when the regression model is incorrectly specified — either by omitting relevant variables (under-specification) or including irrelevant ones (over-specification), both of which bias the coefficient estimates.",
+  "explainZH": "<strong>規格錯誤（Specification Error）</strong>：迴歸模型設定不正確——遺漏重要自變項（under-specification）或納入無關自變項（over-specification）——都會導致係數估計偏誤。"
+ },
+ {
+  "ch": "Ch5",
+  "years": [
+   "2022",
+   "2021",
+   "2020"
+  ],
+  "en": "___ measures how much the variance of the regression coefficients is inflated by multicollinearity.",
+  "zh": "___衡量多重共線性使迴歸係數的變異量膨脹了多少。",
+  "blanks": [
+   [
+    "vif",
+    "variance inflation factor",
+    "變異膨脹因子",
+    "vif (variance inflation factor)"
+   ]
+  ],
+  "answerEN": "VIF — Variance Inflation Factor（變異膨脹因子）",
+  "answerZH": "VIF（變異膨脹因子）",
+  "explainEN": "<strong>VIF (Variance Inflation Factor)</strong> = 1/Tolerance. A VIF > 10 (or Tolerance < 0.10) indicates serious multicollinearity. It measures how much the variance of a coefficient is \"inflated\" compared to if that variable were uncorrelated with others.",
+  "explainZH": "<strong>VIF（變異膨脹因子）</strong> = 1/容忍值（Tolerance）。VIF > 10（或容忍值 < 0.10）代表嚴重多重共線性。它衡量係數的變異量相較於「無共線性情況」膨脹了多少倍。"
+ },
+ {
+  "ch": "Ch5",
+  "years": [
+   "2016",
+   "2015"
+  ],
+  "en": "The impact of ___ is to reduce any single independent variable's predictive power by the extent to which it is associated with other independent variables.",
+  "zh": "___的影響是：當某自變項與其他自變項相關時，其預測力會被降低。",
+  "blanks": [
+   [
+    "multicollinearity",
+    "多重共線性"
+   ]
+  ],
+  "answerEN": "Multicollinearity（多重共線性）",
+  "answerZH": "多重共線性",
+  "explainEN": "<strong>Multicollinearity</strong> occurs when independent variables are highly intercorrelated. This inflates standard errors, makes coefficients unstable, and reduces the unique predictive contribution of each variable.",
+  "explainZH": "<strong>多重共線性（Multicollinearity）</strong>：自變項之間高度相關時，標準誤增大、係數不穩定，且每個自變項的獨特預測貢獻降低，難以分辨各自的影響。"
+ },
+ {
+  "ch": "Ch5",
+  "years": [
+   "2016",
+   "2015"
+  ],
+  "en": "Two common measures for assessing collinearity are (1) ___ and (2) its inverse — the variance inflation factor VIF.",
+  "zh": "評估共線性的兩個常見指標為：(1)___與(2)其倒數——VIF。",
+  "blanks": [
+   [
+    "tolerance",
+    "容忍值"
+   ]
+  ],
+  "answerEN": "Tolerance（容忍值）",
+  "answerZH": "容忍值（Tolerance）",
+  "explainEN": "<strong>Tolerance</strong> = 1 − R²ᵢ, where R²ᵢ is the R² from regressing variable i on all other predictors. Low tolerance (< 0.10) signals high multicollinearity. VIF = 1/Tolerance.",
+  "explainZH": "<strong>容忍值（Tolerance）</strong> = 1 − R²ᵢ，其中 R²ᵢ 為以其他自變項預測第 i 個自變項所得的決定係數。容忍值低（< 0.10）代表嚴重共線性。VIF = 1/容忍值。"
+ },
+ {
+  "ch": "Ch5",
+  "years": [
+   "2016"
+  ],
+  "en": "Whereas regression coefficients are expressed in original variable units, ___ use standardized data and can be directly compared.",
+  "zh": "傳統迴歸係數以原始單位表達，而___使用標準化資料，可直接比較。",
+  "blanks": [
+   [
+    "beta coefficients",
+    "standardized coefficients",
+    "beta coefficient",
+    "beta 係數",
+    "標準化係數"
+   ]
+  ],
+  "answerEN": "Beta Coefficients / Standardized Coefficients（標準化係數）",
+  "answerZH": "Beta係數（標準化係數）",
+  "explainEN": "Unlike unstandardized coefficients that reflect original variable units, <strong>beta (standardized) coefficients</strong> are expressed in standard deviation units, enabling direct comparison of the relative importance of predictors with different scales.",
+  "explainZH": "不同於以原始單位表達的非標準化係數，<strong>Beta係數（標準化迴歸係數）</strong>以標準差單位表達，可直接比較不同量綱的自變項對應變項影響的相對大小。"
+ },
+ {
+  "ch": "Ch6",
+  "years": [
+   "Ex",
+   "2023",
+   "2020",
+   "2019"
+  ],
+  "en": "In experimental research, ___ is an independent variable hypothesized as the reason/\"cause\" of the outcome variable.",
+  "zh": "在實驗研究中，___是被假設為結果變項之「原因」的自變項。",
+  "blanks": [
+   [
+    "treatment",
+    "factor",
+    "處理",
+    "因素",
+    "treatment / factor"
+   ]
+  ],
+  "answerEN": "Treatment / Factor（處理 ／ 因素）",
+  "answerZH": "處理（Treatment）／因素（Factor）",
+  "explainEN": "In experimental design, a <strong>Treatment</strong> (also called a Factor) is the independent variable that the researcher deliberately manipulates to observe its causal effect on the dependent variable.",
+  "explainZH": "在實驗設計中，<strong>處理（Treatment）</strong>（亦稱因素）是研究者主動操弄的自變項，目的是觀察其對應變項是否造成因果效果。"
+ },
+ {
+  "ch": "Ch6",
+  "years": [
+   "Ex",
+   "2023",
+   "2022",
+   "2021",
+   "2019",
+   "2018",
+   "2002-2008"
+  ],
+  "en": "Multivariate techniques for assessing differences between group means include ___ for two-group situations and MANOVA for situations with three or more groups.",
+  "zh": "評估群體平均數差異的多變量技術：二群情境用___；三群或以上用MANOVA。",
+  "blanks": [
+   [
+    "hotelling's t2",
+    "hotelling's t²",
+    "hotelling t2",
+    "hotelling t squared",
+    "hotelling's t-squared",
+    "hotelling t²"
+   ]
+  ],
+  "answerEN": "Hotelling's T²",
+  "answerZH": "Hotelling's T²",
+  "explainEN": "<strong>Hotelling's T²</strong> is the multivariate extension of the t-test for two-group comparisons, simultaneously testing mean differences across multiple dependent variables. MANOVA extends this to three or more groups.",
+  "explainZH": "<strong>Hotelling's T²</strong>是獨立樣本t檢定的多變量延伸，同時檢定兩組在多個應變數上的平均數是否有差異。MANOVA則進一步延伸至三組或以上情境。"
+ },
+ {
+  "ch": "Ch6",
+  "years": [
+   "Ex",
+   "2023"
+  ],
+  "en": "___ is an individual effect of a treatment variable on the dependent variable(s) observations.",
+  "zh": "___是處理變項對應變項觀測值的單一影響。",
+  "blanks": [
+   [
+    "main effect",
+    "主要效果",
+    "主效果"
+   ]
+  ],
+  "answerEN": "Main Effect（主要效果）",
+  "answerZH": "主要效果（Main Effect）",
+  "explainEN": "A <strong>Main Effect</strong> is the direct, individual effect of one treatment/factor variable on the dependent variable(s), considered independently of other factors. It contrasts with the interaction effect.",
+  "explainZH": "<strong>主要效果（Main Effect）</strong>：單一處理／因子變項對應變項的直接獨立影響，不涉及與其他因子的交互作用。"
+ },
+ {
+  "ch": "Ch6",
+  "years": [
+   "2023",
+   "2022",
+   "2021",
+   "2018",
+   "2002-2008"
+  ],
+  "en": "The purpose of a ___ design is to control for individual-level differences that may affect within-group variance. It is a form of respondent's lack of independence.",
+  "zh": "___設計的目的在於控制可能影響組內變異的個體層級差異，這是受訪者缺乏獨立性的一種形式。",
+  "blanks": [
+   [
+    "repeated measures",
+    "重複測量"
+   ]
+  ],
+  "answerEN": "Repeated Measures（重複測量）",
+  "answerZH": "重複測量（Repeated Measures）",
+  "explainEN": "A <strong>Repeated Measures</strong> design measures the same subjects across multiple conditions or time points. By using each participant as their own control, it eliminates between-subject variance and increases statistical power, but creates dependency among observations.",
+  "explainZH": "<strong>重複測量（Repeated Measures）</strong>設計：同一受測者接受多個處理條件或多個時間點的測量。以受測者本身為控制，消除個體間差異的干擾，提升統計檢定力，但觀測值之間產生非獨立性。"
+ },
+ {
+  "ch": "Ch6",
+  "years": [
+   "Ex",
+   "2025",
+   "2024",
+   "2023",
+   "2022",
+   "2021",
+   "2020",
+   "2018",
+   "2002-2008"
+  ],
+  "en": "The MANOVA requires a recommended minimum cell size of ___ observations.",
+  "zh": "MANOVA建議每個單元格的最低觀測值數量為___筆。",
+  "blanks": [
+   [
+    "20"
+   ]
+  ],
+  "answerEN": "20（每組至少20筆觀察值）",
+  "answerZH": "20",
+  "explainEN": "MANOVA requires a <strong>minimum of 20 observations per cell</strong> (group). This threshold ensures adequate statistical power for the multivariate tests. Smaller samples increase the risk of Type II errors.",
+  "explainZH": "MANOVA要求每個分析單元格（組別）至少有<strong>20筆觀察值</strong>，以確保多變量檢定具有足夠的統計檢定力。樣本過少會增加型二誤差（漏報）的風險。"
+ },
+ {
+  "ch": "Ch6",
+  "years": [
+   "Ex",
+   "2023",
+   "2022",
+   "2021",
+   "2018",
+   "2002-2008"
+  ],
+  "en": "MANOVA presents several criteria to assess multivariate differences. The four most popular are ___, Roy's gcr, Hotelling's trace, and Pillai's criterion.",
+  "zh": "MANOVA最常用的四種評估準則為___、Roy's gcr、Hotelling's trace、Pillai's criterion。",
+  "blanks": [
+   [
+    "wilk's lambda",
+    "wilks lambda",
+    "wilk's lambda",
+    "wilks' lambda",
+    "wilk lambda"
+   ]
+  ],
+  "answerEN": "Wilk's Lambda",
+  "answerZH": "Wilk's Lambda",
+  "explainEN": "The four most popular MANOVA criteria are: <strong>Wilk's Lambda</strong> (most commonly used, ranges 0–1, lower = more significant), <strong>Roy's GCR</strong>, <strong>Hotelling's Trace</strong>, and <strong>Pillai's Criterion</strong>. Wilk's Lambda is analogous to 1−R² in regression.",
+  "explainZH": "MANOVA四大評估準則：<strong>Wilk's Lambda</strong>（最常用，值域0~1，越小越顯著）、Roy's GCR（最大特徵根）、Hotelling's Trace（軌跡統計量）、Pillai's Criterion（Pillai準則）。Wilk's Lambda類似迴歸中的1−R²。"
+ },
+ {
+  "ch": "Ch6",
+  "years": [
+   "Ex",
+   "2025",
+   "2024s",
+   "2019",
+   "2018",
+   "2002-2008"
+  ],
+  "en": "Two methods to assess the dependent variate in MANOVA are ___ and stepdown analysis.",
+  "zh": "MANOVA中評估應變量的兩種方法為___與逐步下降分析。",
+  "blanks": [
+   [
+    "bonferroni inequality",
+    "bonferroni's inequality",
+    "bonferroni",
+    "bonferroni inequality"
+   ]
+  ],
+  "answerEN": "Bonferroni Inequality（Bonferroni不等式）",
+  "answerZH": "Bonferroni不等式",
+  "explainEN": "<strong>Bonferroni Inequality</strong>: controls the familywise error rate when conducting multiple univariate ANOVAs by adjusting the significance level (α/k, where k = number of tests). <strong>Stepdown Analysis</strong>: tests DVs sequentially, controlling for previously tested DVs.",
+  "explainZH": "<strong>Bonferroni不等式</strong>：進行多個單變量ANOVA時，將顯著水準調整為α/k（k為檢定次數），控制整體型一誤差率。<strong>逐步下降分析（Stepdown Analysis）</strong>：依序檢定各應變數，控制已測試之應變數的影響。"
+ },
+ {
+  "ch": "Ch6",
+  "years": [
+   "Ex",
+   "2025",
+   "2024",
+   "2023",
+   "2022",
+   "2021",
+   "2019",
+   "2018",
+   "2002-2008"
+  ],
+  "en": "To identify differences between individual groups in MANOVA, the researcher specifies groups through a ___, a combination of group means representing a specific planned comparison.",
+  "zh": "為識別MANOVA中群體間的差異，研究者透過___指定欲比較的群體——這是代表特定計劃性比較的群體平均數組合。",
+  "blanks": [
+   [
+    "contrast",
+    "contrast analysis",
+    "planned comparison",
+    "prior comparison",
+    "對比",
+    "對比分析"
+   ]
+  ],
+  "answerEN": "Contrast / Planned Comparison（對比 ／ 計劃性比較）",
+  "answerZH": "對比（Contrast）／計劃性比較",
+  "explainEN": "A <strong>Contrast (Planned Comparison)</strong> is a pre-specified linear combination of group means designed to test a specific theoretical hypothesis. Unlike post-hoc tests, contrasts are determined before data collection, providing more statistical power.",
+  "explainZH": "<strong>對比（Contrast）／計劃性比較（Planned Comparison）</strong>：事前設定的群體平均數線性組合，用來檢驗特定理論假設。與事後檢定（post-hoc）不同，對比在資料收集前即設定，具有更高的統計檢定力。"
+ },
+ {
+  "ch": "Ch6",
+  "years": [
+   "Ex",
+   "2023",
+   "2022",
+   "2021",
+   "2018"
+  ],
+  "en": "___ examine the effects of several factors simultaneously by forming groups based on all possible combinations of the levels of the various treatment variables.",
+  "zh": "___透過根據各處理變項所有可能的水準組合建立群組，同時檢驗多個因子的效果。",
+  "blanks": [
+   [
+    "factorial designs",
+    "factorial design",
+    "因子設計",
+    "多因子設計"
+   ]
+  ],
+  "answerEN": "Factorial Designs（因子設計）",
+  "answerZH": "因子設計（Factorial Designs）",
+  "explainEN": "<strong>Factorial Designs</strong> include two or more independent variables (factors), creating treatment cells that represent every possible combination of factor levels. They allow examination of main effects and interaction effects simultaneously.",
+  "explainZH": "<strong>因子設計（Factorial Designs）</strong>包含兩個或以上自變項（因子），形成代表所有水準組合的處理單元格，可同時檢驗各因子的主要效果與交互作用效果。"
+ },
+ {
+  "ch": "Ch6",
+  "years": [
+   "2023"
+  ],
+  "en": "The ___ term represents the joint effect of two or more treatments.",
+  "zh": "___項代表兩個或以上處理條件的聯合效果。",
+  "blanks": [
+   [
+    "interaction",
+    "交互作用",
+    "interaction term"
+   ]
+  ],
+  "answerEN": "Interaction（交互作用項）",
+  "answerZH": "交互作用（Interaction）",
+  "explainEN": "The <strong>Interaction Effect</strong> occurs when the effect of one factor on the dependent variable depends on the level of another factor. It represents the combined joint effect that goes beyond the sum of individual main effects.",
+  "explainZH": "<strong>交互作用效果（Interaction Effect）</strong>：當一個因子的效果因另一個因子的水準不同而改變時，就存在交互作用。它代表超越各主要效果相加的聯合影響。"
+ },
+ {
+  "ch": "Ch6",
+  "years": [
+   "2025s",
+   "2024s"
+  ],
+  "en": "___ is a test for the incremental discriminatory power of a dependent variable after the effects of other dependent variables have been taken into account.",
+  "zh": "___是在控制其他應變數效果後，檢定某應變數遞增判別力的方法。",
+  "blanks": [
+   [
+    "stepdown analysis",
+    "stepdown",
+    "step-down analysis",
+    "逐步下降分析"
+   ]
+  ],
+  "answerEN": "Stepdown Analysis（逐步下降分析）",
+  "answerZH": "逐步下降分析（Stepdown Analysis）",
+  "explainEN": "<strong>Stepdown Analysis</strong> tests each dependent variable sequentially using ANCOVA, with previously tested DVs serving as covariates. This determines the unique contribution of each DV after accounting for all previously entered DVs.",
+  "explainZH": "<strong>逐步下降分析（Stepdown Analysis）</strong>：依序以ANCOVA檢定每個應變數，將已測試的應變數作為共變數，藉此評估每個應變數在控制其他應變數後的獨特貢獻。"
+ },
+ {
+  "ch": "Ch6",
+  "years": [
+   "2024",
+   "2020"
+  ],
+  "en": "___ are formed by combinations of independent variables in factorial designs.",
+  "zh": "在因子設計中，___由自變項的各種組合所構成。",
+  "blanks": [
+   [
+    "cells",
+    "cell groups",
+    "groups",
+    "組別",
+    "單元格",
+    "cells / groups"
+   ]
+  ],
+  "answerEN": "Cells / Groups（單元格 ／ 組別）",
+  "answerZH": "單元格（Cells）／組別（Groups）",
+  "explainEN": "In a factorial MANOVA design, <strong>Cells</strong> (or Groups) are formed by crossing all levels of all independent variables. For example, a 2×3 factorial design creates 6 cells, each representing a unique combination of factor levels.",
+  "explainZH": "在多因子MANOVA設計中，<strong>單元格（Cells）</strong>由所有自變項的水準交叉組合而成。例如，2×3因子設計產生6個單元格，每格代表一種獨特的因子水準組合。"
+ },
+ {
+  "ch": "Ch6",
+  "years": [
+   "2024",
+   "2020"
+  ],
+  "en": "___ is a variable assessing if respondents perceive manipulation correctly. Done solely to validate the manipulation, not to impact the outcome.",
+  "zh": "___是評估受測者是否正確感知到操弄的變項，僅用於驗證操弄，不影響結果。",
+  "blanks": [
+   [
+    "manipulation check",
+    "操弄檢核",
+    "manipulation check variable"
+   ]
+  ],
+  "answerEN": "Manipulation Check（操弄檢核）",
+  "answerZH": "操弄檢核（Manipulation Check）",
+  "explainEN": "A <strong>Manipulation Check</strong> verifies that the experimental manipulation was perceived as intended by participants. It is measured after the manipulation but before measuring the dependent variable. A failed manipulation check means the treatment wasn't effective.",
+  "explainZH": "<strong>操弄檢核（Manipulation Check）</strong>：確認實驗操弄是否被受測者如預期地感知到。在操弄後、測量應變項前進行測量。若操弄檢核未通過，代表實驗處理未能有效傳達給受測者。"
+ },
+ {
+  "ch": "Ch6",
+  "years": [
+   "2024"
+  ],
+  "en": "The four most widely used measures for assessing statistical significance between groups are: Roy's Greatest Characteristic Root, ___, Pillai's Criterion and Hotelling's Trace.",
+  "zh": "評估群體間統計顯著性最常用的四種指標：Roy's GCR、___、Pillai's Criterion、Hotelling's Trace。",
+  "blanks": [
+   [
+    "wilk's lambda",
+    "wilks lambda",
+    "wilk's lambda",
+    "wilks' lambda"
+   ]
+  ],
+  "answerEN": "Wilk's Lambda",
+  "answerZH": "Wilk's Lambda",
+  "explainEN": "<strong>Wilk's Lambda (Λ)</strong> is the ratio of within-group variance to total variance, ranging from 0 to 1. Smaller values indicate greater group separation and statistical significance. It's the most widely reported MANOVA criterion.",
+  "explainZH": "<strong>Wilk's Lambda（Λ）</strong>：組內變異與總變異的比值，範圍0~1。值越小表示群體分離越明顯、統計顯著性越高。是最常被報告的MANOVA評估準則。"
+ },
+ {
+  "ch": "Ch6",
+  "years": [
+   "2022",
+   "2021",
+   "2002-2008"
+  ],
+  "en": "Univariate procedures for assessing differences between group means include ___ for two-group situations and ___ for three or more groups.",
+  "zh": "評估群組平均數差異的單變量方法：二群用___；三群或以上用___。",
+  "blanks": [
+   [
+    "t-test",
+    "t test",
+    "t檢定",
+    "independent t-test"
+   ],
+   [
+    "anova",
+    "變異數分析",
+    "analysis of variance"
+   ]
+  ],
+  "answerEN": "① t-test（t 檢定）\n② ANOVA（變異數分析）",
+  "answerZH": "①t檢定 ②ANOVA",
+  "explainEN": "For <strong>univariate</strong> group mean comparisons: <strong>t-test</strong> (2 groups) and <strong>ANOVA</strong> (3+ groups). Their multivariate counterparts are Hotelling's T² and MANOVA respectively.",
+  "explainZH": "<strong>單變量</strong>群組平均數比較：<strong>t檢定</strong>（2組）、<strong>ANOVA（變異數分析）</strong>（3組以上）。對應的多變量版本分別為Hotelling's T²與MANOVA。"
+ },
+ {
+  "ch": "Ch6",
+  "years": [
+   "2022",
+   "2021"
+  ],
+  "en": "In some aspects, ___ and ___ are \"mirror images\".",
+  "zh": "在某些方面，___與___是「鏡像」關係。",
+  "blanks": [
+   [
+    "manova"
+   ],
+   [
+    "discriminant analysis",
+    "判別分析"
+   ]
+  ],
+  "answerEN": "① MANOVA\n② Discriminant Analysis（判別分析）",
+  "answerZH": "①MANOVA ②判別分析",
+  "explainEN": "<strong>MANOVA</strong> and <strong>Discriminant Analysis</strong> are mathematical \"mirror images\": MANOVA treats group membership as the independent variable and tests if groups differ on multiple DVs; Discriminant Analysis uses metric IVs to predict categorical group membership.",
+  "explainZH": "<strong>MANOVA</strong>與<strong>判別分析</strong>為數學上的「鏡像」：MANOVA以群體類別作為自變項，檢定群體是否在多個應變數上有差異；判別分析則用計量自變項預測類別應變數的群體歸屬。"
+ },
+ {
+  "ch": "Ch6",
+  "years": [
+   "2022",
+   "2021",
+   "2002-2008"
+  ],
+  "en": "___ is appropriate to eliminate some systematic error outside the control of the researcher that can bias the results.",
+  "zh": "___適合用來消除研究者無法控制、可能造成偏誤的系統誤差。",
+  "blanks": [
+   [
+    "covariance analysis",
+    "ancova",
+    "共變異數分析",
+    "analysis of covariance",
+    "covariance analysis (ancova)"
+   ]
+  ],
+  "answerEN": "Covariance Analysis / ANCOVA（共變異數分析）",
+  "answerZH": "共變異數分析（ANCOVA）",
+  "explainEN": "<strong>Covariance Analysis (ANCOVA)</strong> statistically controls for the influence of covariates — variables that are related to the DV but not of primary interest. By removing their effect, it reduces error variance and increases the precision of treatment effect estimates.",
+  "explainZH": "<strong>共變異數分析（ANCOVA）</strong>：統計控制共變數（與應變項相關但非主要研究興趣的變項）的影響，在移除共變數效果後，降低誤差變異，提升處理效果估計的精確度。"
+ },
+ {
+  "ch": "Ch6",
+  "years": [
+   "2022",
+   "2021",
+   "2002-2008"
+  ],
+  "en": "For MANOVA to be valid: observations must be ___, and the p-dependent variables must follow a ___ distribution.",
+  "zh": "MANOVA有效的假設：觀測值必須為___，且p個應變數必須符合___分佈。",
+  "blanks": [
+   [
+    "independent",
+    "獨立"
+   ],
+   [
+    "multivariate normal",
+    "多變量常態分佈",
+    "multivariate normal distribution"
+   ]
+  ],
+  "answerEN": "① Independent（獨立）\n② Multivariate Normal（多變量常態分佈）",
+  "answerZH": "①獨立 ②多變量常態分佈",
+  "explainEN": "MANOVA requires three assumptions: (1) <strong>Independence</strong> of observations; (2) equality of variance-covariance matrices across groups (tested by Box's M); (3) <strong>Multivariate Normal</strong> distribution of the dependent variables.",
+  "explainZH": "MANOVA三大假設：(1)觀測值<strong>獨立</strong>；(2)各群組的變異數-共變異數矩陣相等（以Box's M檢定）；(3)應變數組合符合<strong>多變量常態分佈</strong>。"
+ },
+ {
+  "ch": "Ch6",
+  "years": [
+   "2022",
+   "2021",
+   "2002-2008"
+  ],
+  "en": "In any univariate ANOVA design, metric independent variables referred to as ___ can be included. The design is then termed ANCOVA.",
+  "zh": "在單變量ANOVA設計中，可納入計量型自變項，稱為___，該設計稱為ANCOVA。",
+  "blanks": [
+   [
+    "covariates",
+    "covariate",
+    "共變數"
+   ]
+  ],
+  "answerEN": "Covariates（共變數）",
+  "answerZH": "共變數（Covariates）",
+  "explainEN": "<strong>Covariates</strong> are metric independent variables included in ANOVA to statistically remove their influence on the DV. Adding covariates transforms ANOVA into ANCOVA, reducing error variance and improving the precision of group comparisons.",
+  "explainZH": "<strong>共變數（Covariates）</strong>：納入ANOVA設計中的計量型自變項，用來統計排除其對應變項的影響。加入共變數後，ANOVA轉為ANCOVA，降低誤差變異，提升群體比較的精確度。"
+ },
+ {
+  "ch": "Ch6",
+  "years": [
+   "2022",
+   "2021",
+   "2002-2008"
+  ],
+  "en": "A ___ is a nonmetric characteristic used post hoc to segment respondents to obtain greater within-group homogeneity and reduce MSw variance.",
+  "zh": "___是一種非計量特徵，事後用來將受訪者分段，提高組內同質性並降低MSw。",
+  "blanks": [
+   [
+    "blocking factor",
+    "區集因子",
+    "block factor"
+   ]
+  ],
+  "answerEN": "Blocking Factor（區集因子）",
+  "answerZH": "區集因子（Blocking Factor）",
+  "explainEN": "A <strong>Blocking Factor</strong> is a nonmetric variable (e.g., gender, age group) used to segment participants into more homogeneous subgroups, thereby reducing within-group variance (MSw) and increasing the sensitivity of the F-test.",
+  "explainZH": "<strong>區集因子（Blocking Factor）</strong>：非計量變項（如性別、年齡組別），用來將受訪者分組以提高組內同質性，降低組內變異（MSw），進而提升F檢定的靈敏度。"
+ },
+ {
+  "ch": "Ch6",
+  "years": [
+   "2022",
+   "2021",
+   "2002-2008"
+  ],
+  "en": "___ is a statistical test for the equality of the variance/covariance matrices of the dependent variables across the groups.",
+  "zh": "___是一種統計檢定，用來測試各群組應變數的變異數/共變異數矩陣是否相等。",
+  "blanks": [
+   [
+    "box's m",
+    "box m",
+    "box's m test",
+    "box's m"
+   ]
+  ],
+  "answerEN": "Box's M",
+  "answerZH": "Box's M",
+  "explainEN": "<strong>Box's M</strong> tests the assumption of homogeneity of variance-covariance matrices across groups — a key MANOVA assumption. Box's M is sensitive to non-normality, so a non-significant result is desired. Severe violations suggest using Pillai's criterion instead.",
+  "explainZH": "<strong>Box's M</strong>：檢定各群組間的變異數-共變異數矩陣是否相等（MANOVA的關鍵假設）。Box's M對非常態性敏感，期望得到不顯著的結果。若嚴重違反此假設，建議改用Pillai's Criterion。"
+ },
+ {
+  "ch": "Ch6",
+  "years": [
+   "2019",
+   "2018",
+   "2023",
+   "2022",
+   "2021",
+   "2002-2008"
+  ],
+  "en": "Post hoc methods to identify differences between individual groups include ___, Tukey's LSD, and Duncan's test.",
+  "zh": "識別個別群體差異的事後方法包括___、Tukey's LSD與Duncan's test。",
+  "blanks": [
+   [
+    "scheffe",
+    "scheffe method",
+    "scheffé",
+    "scheffé method",
+    "scheffe's method"
+   ]
+  ],
+  "answerEN": "Scheffé Method",
+  "answerZH": "Scheffé 方法",
+  "explainEN": "Post-hoc tests are conducted after significant MANOVA to pinpoint which groups differ. <strong>Scheffé's method</strong> is the most conservative (lowest Type I error rate) and can test all possible contrasts. Tukey's LSD is less conservative, and Duncan's test is the most liberal.",
+  "explainZH": "事後檢定在MANOVA顯著後，找出哪些群體間有差異。<strong>Scheffé法</strong>是最保守的（型一誤差率最低），可檢定所有可能的對比。Tukey's LSD較不保守，Duncan's test最為寬鬆。"
+ },
+ {
+  "ch": "Ch6",
+  "years": [
+   "2022",
+   "2021",
+   "2002-2008"
+  ],
+  "en": "There are special MANOVA models, termed ___, that can account for dependence and ascertain whether differences occurred across individuals for the set of dependent variables.",
+  "zh": "特殊的MANOVA模型稱為___，可處理資料間的依賴性並判定應變數集合是否存在個體差異。",
+  "blanks": [
+   [
+    "contrast",
+    "contrast models",
+    "contrasts",
+    "對比模型"
+   ]
+  ],
+  "answerEN": "Contrast（對比模型）",
+  "answerZH": "對比（Contrast）",
+  "explainEN": "Special MANOVA models termed <strong>Contrasts</strong> handle the dependency inherent in repeated-measures designs while still testing whether differences exist across the set of dependent variables. They specify the exact comparisons to be made among groups.",
+  "explainZH": "稱為<strong>對比（Contrast）</strong>的特殊MANOVA模型，可處理重複測量設計中觀測值的依賴性，同時仍能檢定應變數集合在個體間是否有差異。"
+ },
+ {
+  "ch": "Ch6",
+  "years": [
+   "2020"
+  ],
+  "en": "___ is a research approach based on developing a narrowly focused research program that can be tested in a hypothesis.",
+  "zh": "___是一種研究方法，以建立可用假設加以檢定的聚焦式研究計畫為基礎。",
+  "blanks": [
+   [
+    "experimental design",
+    "experimental research",
+    "實驗設計",
+    "experimental approach"
+   ]
+  ],
+  "answerEN": "Experimental Design / Research（實驗設計）",
+  "answerZH": "實驗設計（Experimental Design）",
+  "explainEN": "<strong>Experimental research</strong> is characterized by the researcher's deliberate manipulation of independent variables under controlled conditions to establish causal relationships. It requires random assignment and controlled environments.",
+  "explainZH": "<strong>實驗研究（Experimental Research）</strong>的特徵是研究者在受控環境下主動操弄自變項，以建立因果關係。需要隨機分配受測者並控制外在干擾變項。"
+ },
+ {
+  "ch": "Ch6",
+  "years": [
+   "2025s"
+  ],
+  "en": "Power is determined as a function of the statistical significance level α set for a ___, the sample size, and the effect size.",
+  "zh": "統計檢定力是___的顯著水準α、樣本數與效果量的函數。",
+  "blanks": [
+   [
+    "type i error",
+    "type 1 error",
+    "型一誤差",
+    "type i"
+   ]
+  ],
+  "answerEN": "Type I Error（型一誤差）",
+  "answerZH": "型一誤差（Type I Error）",
+  "explainEN": "<strong>Statistical Power</strong> (1-β) = P(reject H₀ | H₀ is false). Power is a function of: (1) <strong>Type I error rate (α)</strong> — higher α = higher power; (2) Sample size — larger N = higher power; (3) Effect size — larger effect = higher power.",
+  "explainZH": "<strong>統計檢定力（Power）</strong> = 1-β = 在對立假設為真時，正確拒絕虛無假設的機率。其決定因素：(1)<strong>型一誤差率（α）</strong>——α越大，檢定力越高；(2)樣本數——N越大，檢定力越高；(3)效果量——效果量越大，檢定力越高。"
+ },
+ {
+  "ch": "Ch6",
+  "years": [
+   "2025s"
+  ],
+  "en": "Most often, ___ do not use a single contrast, but instead test for differences among all possible combinations of groups.",
+  "zh": "___通常不只用單一對比，而是檢定所有可能的群體組合之差異。",
+  "blanks": [
+   [
+    "post hoc tests",
+    "post-hoc tests",
+    "post hoc methods",
+    "事後檢定"
+   ]
+  ],
+  "answerEN": "Post Hoc Tests（事後檢定）",
+  "answerZH": "事後檢定（Post Hoc Tests）",
+  "explainEN": "<strong>Post Hoc Tests</strong> (a posteriori comparisons) are conducted after a significant overall test (ANOVA/MANOVA) to identify which specific groups differ. Unlike planned contrasts, they test all possible pairwise combinations, requiring multiple comparison corrections.",
+  "explainZH": "<strong>事後檢定（Post Hoc Tests）</strong>：在整體檢定（ANOVA/MANOVA）顯著後進行，以找出哪些特定群體間有差異。與事前計劃性對比不同，事後檢定測試所有可能的兩兩比較，需進行多重比較校正。"
+ },
+ {
+  "ch": "Ch7",
+  "years": [
+   "Ex",
+   "2025",
+   "2024",
+   "2023",
+   "2022",
+   "2021",
+   "2020",
+   "2019",
+   "2018",
+   "2017",
+   "2016",
+   "2015",
+   "2002-2008"
+  ],
+  "en": "Discriminant analysis is the appropriate technique when the dependent variable is ___ and the independent variables are metric.",
+  "zh": "當應變項為___、自變項為計量變項時，判別分析是合適的技術。",
+  "blanks": [
+   [
+    "categorical",
+    "nonmetric",
+    "non-metric",
+    "類別",
+    "非計量",
+    "categorical (nonmetric)"
+   ]
+  ],
+  "answerEN": "Categorical / Nonmetric（類別 ／ 非計量）",
+  "answerZH": "類別（Categorical）/ 非計量（Nonmetric）",
+  "explainEN": "<strong>Discriminant Analysis</strong> requires: (1) Dependent variable = <strong>categorical/nonmetric</strong> (group membership); (2) Independent variables = <strong>metric</strong>. When the DV is metric, use regression instead.",
+  "explainZH": "<strong>判別分析</strong>的資料要求：(1)應變項為<strong>類別/非計量</strong>（群體類別）；(2)自變項為<strong>計量</strong>型態。若應變項為計量，則應使用迴歸分析。"
+ },
+ {
+  "ch": "Ch7",
+  "years": [
+   "Ex",
+   "2025",
+   "2024",
+   "2023",
+   "2022",
+   "2021",
+   "2019",
+   "2018",
+   "2017",
+   "2016",
+   "2015",
+   "2002-2008"
+  ],
+  "en": "The linear combination for a discriminant analysis is known as ___.",
+  "zh": "判別分析的線性組合稱為___。",
+  "blanks": [
+   [
+    "discriminant function",
+    "discriminant variate",
+    "判別函數",
+    "discriminant function / discriminant variate"
+   ]
+  ],
+  "answerEN": "Discriminant Function / Discriminant Variate（判別函數 ／ 判別變量）",
+  "answerZH": "判別函數（Discriminant Function）",
+  "explainEN": "The <strong>Discriminant Function</strong> (also called Discriminant Variate) is the linear combination of independent variables that maximally separates the a priori defined groups: Z = w₁X₁ + w₂X₂ + ... + wₙXₙ, where w = discriminant weights.",
+  "explainZH": "<strong>判別函數（Discriminant Function）</strong>（亦稱判別變量）是自變項的線性組合，使事先定義的各群體之間的分離程度最大化：Z = w₁X₁ + w₂X₂ + ... + wₙXₙ，其中w為判別權重。"
+ },
+ {
+  "ch": "Ch7",
+  "years": [
+   "Ex",
+   "2025",
+   "2024",
+   "2023",
+   "2022",
+   "2021",
+   "2019",
+   "2018",
+   "2017",
+   "2016",
+   "2015",
+   "2002-2008"
+  ],
+  "en": "Discriminant analysis multiplies each independent variable by its corresponding weight and adds these products together. The result is a single composite ___ for each individual.",
+  "zh": "判別分析將每個自變項乘以對應的權重，再相加，結果為每個個體的___。",
+  "blanks": [
+   [
+    "discriminant z score",
+    "discriminant score",
+    "判別z分數",
+    "discriminant z-score",
+    "z score",
+    "z-score"
+   ]
+  ],
+  "answerEN": "Discriminant Z Score（判別Z分數）",
+  "answerZH": "判別Z分數（Discriminant Z Score）",
+  "explainEN": "The <strong>Discriminant Z Score</strong> (Discriminant Score) is the composite score calculated for each individual by applying the discriminant function. It projects each case onto the discriminant dimension and is used to classify observations into groups.",
+  "explainZH": "<strong>判別Z分數（Discriminant Z Score）</strong>：將判別函數應用於每個個體所得的組合分數，將每個案例投影到判別維度上，用來將觀測值分類到各群體中。"
+ },
+ {
+  "ch": "Ch7",
+  "years": [
+   "Ex",
+   "2025",
+   "2024",
+   "2023",
+   "2022",
+   "2021",
+   "2019",
+   "2018",
+   "2017",
+   "2016",
+   "2015",
+   "2002-2008"
+  ],
+  "en": "Many studies suggest a ratio of ___ observations for each predictor variable. The minimum recommended is five observations per variable.",
+  "zh": "許多研究建議每個預測變項對應___個觀測值；建議最低為每個變項5個觀測值。",
+  "blanks": [
+   [
+    "20"
+   ]
+  ],
+  "answerEN": "20（最低標準：5個）",
+  "answerZH": "20（最低標準為5個）",
+  "explainEN": "Discriminant analysis is sensitive to the sample-to-predictor ratio. The preferred ratio is <strong>20 observations per predictor variable</strong> (absolute minimum: 5). Small samples increase the risk of overfitting and reduce generalizability.",
+  "explainZH": "判別分析對樣本/預測變項比例非常敏感。建議比例為<strong>每個預測變項20個觀測值</strong>（絕對最低：5個）。樣本過小會增加過度擬合風險，降低結果的可推廣性。"
+ },
+ {
+  "ch": "Ch7",
+  "years": [
+   "Ex",
+   "2025",
+   "2024",
+   "2023",
+   "2022",
+   "2021",
+   "2019",
+   "2018",
+   "2017",
+   "2016",
+   "2015",
+   "2002-2008"
+  ],
+  "en": "The ___, referred to sometimes as structure correlations, reflect the variance the independent variables share with the discriminant function.",
+  "zh": "___（有時稱為結構相關）反映自變項與判別函數之間的共享變異。",
+  "blanks": [
+   [
+    "discriminant loadings",
+    "discriminant loading",
+    "判別負荷",
+    "discriminant structure correlations"
+   ]
+  ],
+  "answerEN": "Discriminant Loadings（判別負荷）",
+  "answerZH": "判別負荷（Discriminant Loadings）",
+  "explainEN": "<strong>Discriminant Loadings</strong> (Structure Correlations) are the correlations between each independent variable and the discriminant function. Like factor loadings in factor analysis, they are the preferred method for interpreting the contribution of each variable.",
+  "explainZH": "<strong>判別負荷（Discriminant Loadings）</strong>（結構相關）：每個自變項與判別函數之間的相關係數。類似因素分析中的因素負荷，是評估各變項對判別函數貢獻的首選方法。"
+ },
+ {
+  "ch": "Ch7",
+  "years": [
+   "2025",
+   "2023",
+   "2019",
+   "2018",
+   "2015",
+   "2002-2008"
+  ],
+  "en": "___ of the discriminant functions is most likely needed when we interpret two or more functions.",
+  "zh": "解釋兩個或以上的判別函數時，最可能需要判別函數的___。",
+  "blanks": [
+   [
+    "rotation",
+    "potency index",
+    "旋轉",
+    "rotation / potency index"
+   ]
+  ],
+  "answerEN": "Rotation / Potency Index（旋轉 ／ 效力指數）",
+  "answerZH": "旋轉（Rotation）／效力指數（Potency Index）",
+  "explainEN": "When multiple discriminant functions exist, <strong>Rotation</strong> (similar to factor rotation) simplifies the interpretation by redistributing variance across functions. The <strong>Potency Index</strong> then provides a composite measure of each variable's discriminating power across all rotated functions.",
+  "explainZH": "存在多個判別函數時，<strong>旋轉（Rotation）</strong>（類似因素分析的轉軸）重新分配各函數的變異，簡化解讀。<strong>效力指數（Potency Index）</strong>則提供各變項在所有旋轉後判別函數上的綜合判別力指標。"
+ },
+ {
+  "ch": "Ch7",
+  "years": [
+   "Ex",
+   "2025",
+   "2024",
+   "2023",
+   "2022",
+   "2021",
+   "2020",
+   "2019",
+   "2017",
+   "2016",
+   "2015",
+   "2002-2008"
+  ],
+  "en": "___ is calculated as the number of objects in the diagonal of the classification matrix divided by the total number of objects.",
+  "zh": "___的計算方式為分類矩陣對角線上的樣本數除以總樣本數。",
+  "blanks": [
+   [
+    "hit ratio",
+    "命中率"
+   ]
+  ],
+  "answerEN": "Hit Ratio（命中率）",
+  "answerZH": "命中率（Hit Ratio）",
+  "explainEN": "The <strong>Hit Ratio</strong> = (Sum of diagonal elements) / (Total N). It measures the percentage of cases correctly classified by the discriminant function, analogous to R² in regression. It should be compared against the chance criterion to assess practical significance.",
+  "explainZH": "<strong>命中率（Hit Ratio）</strong> = 分類矩陣對角線之和 ÷ 總樣本數，衡量判別函數正確分類的百分比，類似迴歸中的R²。應與機率基準（chance criterion）比較，評估其實際意義。"
+ },
+ {
+  "ch": "Ch7",
+  "years": [
+   "2024",
+   "2022",
+   "2021",
+   "2002-2008"
+  ],
+  "en": "___ is a composite measure of the discriminating power of an independent variable when more than one discriminant function is estimated.",
+  "zh": "當估計多個判別函數時，___為衡量某一自變數判別力的綜合指標。",
+  "blanks": [
+   [
+    "potency index",
+    "效力指數"
+   ]
+  ],
+  "answerEN": "Potency Index（效力指數）",
+  "answerZH": "效力指數（Potency Index）",
+  "explainEN": "The <strong>Potency Index</strong> is a composite measure that combines the contribution of an independent variable across all discriminant functions (weighted by the variance explained by each function). It allows ranking of variables by their overall discriminating power.",
+  "explainZH": "<strong>效力指數（Potency Index）</strong>：綜合指標，結合自變數在所有判別函數上的貢獻（以各函數解釋的變異量加權）。可用來排序各變數的整體判別能力。"
+ },
+ {
+  "ch": "Ch7",
+  "years": [
+   "2024"
+  ],
+  "en": "___ is a procedure used to validate discriminant analysis results. It divides the sample into the analysis sample and the holdout sample.",
+  "zh": "___是驗證判別分析結果的程序，將樣本分為分析樣本與保留樣本。",
+  "blanks": [
+   [
+    "cross-validation",
+    "cross validation",
+    "交叉驗證"
+   ]
+  ],
+  "answerEN": "Cross-Validation（交叉驗證）",
+  "answerZH": "交叉驗證（Cross-Validation）",
+  "explainEN": "<strong>Cross-Validation</strong> assesses the generalizability of discriminant analysis by splitting data into: (1) <strong>Analysis (Estimation) Sample</strong> — used to develop the discriminant function; (2) <strong>Holdout Sample</strong> — used to test/validate the function on new data.",
+  "explainZH": "<strong>交叉驗證（Cross-Validation）</strong>：評估判別分析結果的可推廣性，將樣本分為：(1)<strong>分析（估計）樣本</strong>——建立判別函數；(2)<strong>保留樣本</strong>——用來測試/驗證判別函數對新資料的適用性。"
+ },
+ {
+  "ch": "Ch7",
+  "years": [
+   "2023",
+   "2017"
+  ],
+  "en": "The analysis sample is used to ___ the discriminant function and the holdout sample is used to ___ the discriminant function.",
+  "zh": "分析樣本用來___判別函數，保留樣本則用來___判別函數。",
+  "blanks": [
+   [
+    "develop",
+    "建立",
+    "estimate"
+   ],
+   [
+    "test",
+    "測試",
+    "validate"
+   ]
+  ],
+  "answerEN": "① Develop（建立）\n② Test（測試）",
+  "answerZH": "①建立（Develop）②測試（Test）",
+  "explainEN": "In cross-validation: the <strong>Analysis Sample</strong> is used to <strong>develop/estimate</strong> the discriminant function; the <strong>Holdout Sample</strong> is used to <strong>test/validate</strong> how well the function generalizes to new, unseen data.",
+  "explainZH": "交叉驗證的兩個樣本角色：<strong>分析樣本</strong>用來<strong>建立/估計</strong>判別函數；<strong>保留樣本</strong>用來<strong>測試/驗證</strong>判別函數對新資料的適用能力。"
+ },
+ {
+  "ch": "Ch7",
+  "years": [
+   "2023",
+   "Ex"
+  ],
+  "en": "___ estimation is when independent variables are entered into the discriminant function one at a time.",
+  "zh": "___估計法是將自變項一個一個地加入判別函數中。",
+  "blanks": [
+   [
+    "stepwise",
+    "逐步"
+   ]
+  ],
+  "answerEN": "Stepwise（逐步估計法）",
+  "answerZH": "逐步（Stepwise）",
+  "explainEN": "<strong>Stepwise Estimation</strong> adds independent variables to the discriminant function one at a time based on their incremental discriminating power (e.g., Wilk's Lambda criterion). Variables are entered only if they significantly improve group separation.",
+  "explainZH": "<strong>逐步估計法（Stepwise Estimation）</strong>：依據變項的增量判別力（如Wilk's Lambda準則），一次一個地加入自變項。只有能顯著提升群體分離效果的變項才被納入判別函數。"
+ },
+ {
+  "ch": "Ch7",
+  "years": [
+   "2023",
+   "2018",
+   "2017",
+   "2016",
+   "2002-2008"
+  ],
+  "en": "The ___ is a relative measure among all variables indicative of each variable's discriminating power.",
+  "zh": "___是所有變數中衡量各變數判別力的相對指標。",
+  "blanks": [
+   [
+    "potency index",
+    "效力指數",
+    "discriminant weight",
+    "判別權重"
+   ]
+  ],
+  "answerEN": "Potency Index（效力指數）",
+  "answerZH": "效力指數（Potency Index）",
+  "explainEN": "The <strong>Potency Index</strong> serves as a relative ranking measure across all independent variables, indicating each variable's overall contribution to discriminating among groups across all discriminant functions.",
+  "explainZH": "<strong>效力指數（Potency Index）</strong>在所有自變項之間作為相對排序指標，顯示各變項在所有判別函數上區分群體的整體貢獻。"
+ },
+ {
+  "ch": "Ch7",
+  "years": [
+   "2022",
+   "2021",
+   "2019",
+   "2016",
+   "2018",
+   "2002-2008"
+  ],
+  "en": "Discriminant groups must be ___ and ___.",
+  "zh": "判別分析的群體必須為___且___。",
+  "blanks": [
+   [
+    "mutually exclusive",
+    "互相排斥"
+   ],
+   [
+    "exhaustive",
+    "具涵蓋性",
+    "collectively exhaustive"
+   ]
+  ],
+  "answerEN": "① Mutually Exclusive（互相排斥）\n② Exhaustive（具涵蓋性）",
+  "answerZH": "①互相排斥 ②具涵蓋性",
+  "explainEN": "Dependent variable groups in discriminant analysis must be: (1) <strong>Mutually Exclusive</strong> — each observation belongs to one and only one group; (2) <strong>Exhaustive</strong> — every observation is classified into some group (no one is excluded).",
+  "explainZH": "判別分析應變項的群體必須：(1)<strong>互相排斥（Mutually Exclusive）</strong>——每個觀測值只屬於一個群體；(2)<strong>具涵蓋性（Exhaustive）</strong>——所有觀測值都被歸入某個群體（無遺漏）。"
+ },
+ {
+  "ch": "Ch7",
+  "years": [
+   "2022",
+   "2021",
+   "2018",
+   "2017",
+   "2016"
+  ],
+  "en": "With multiple discriminant analysis, the ___ is analogous to regression's R². It reveals how well the discriminant function classified the objects.",
+  "zh": "在多重判別分析中，___類似迴歸的R²，顯示判別函數的分類效果。",
+  "blanks": [
+   [
+    "hit ratio",
+    "命中率"
+   ]
+  ],
+  "answerEN": "Hit Ratio（命中率）",
+  "answerZH": "命中率（Hit Ratio）",
+  "explainEN": "The <strong>Hit Ratio</strong> in multiple discriminant analysis is analogous to R² in regression: it measures the proportion of cases correctly classified. A hit ratio substantially above the chance criterion indicates a useful discriminant function.",
+  "explainZH": "多重判別分析中，<strong>命中率（Hit Ratio）</strong>類似迴歸分析的R²：衡量被正確分類的比例。顯著高於機率基準的命中率代表判別函數具有實用價值。"
+ },
+ {
+  "ch": "Ch7",
+  "years": [
+   "2022",
+   "2021",
+   "2002-2008"
+  ],
+  "en": "Discriminant analysis and logistic regression are appropriate when the DV is ___ and IVs are ___. Logistic regression, also known as ___, is limited to two groups in its basic form.",
+  "zh": "應變項為___、自變項為___時，判別分析與邏輯迴歸均適用。邏輯迴歸亦稱___，基本形式限於兩個群體。",
+  "blanks": [
+   [
+    "categorical variable",
+    "categorical",
+    "非計量",
+    "類別變數"
+   ],
+   [
+    "metric variable",
+    "metric",
+    "計量"
+   ],
+   [
+    "logit analysis",
+    "logit",
+    "對數分析"
+   ]
+  ],
+  "answerEN": "① Categorical Variable（類別變數）\n② Metric Variable（計量變數）\n③ Logit Analysis（對數分析）",
+  "answerZH": "①類別變數 ②計量變數 ③Logit分析",
+  "explainEN": "Both <strong>Discriminant Analysis</strong> and <strong>Logistic Regression</strong> handle categorical DV with metric IVs. Key difference: Logistic Regression (also called <strong>Logit Analysis</strong>) is limited to two groups in its basic binary form, while discriminant analysis handles two or more groups.",
+  "explainZH": "<strong>判別分析</strong>與<strong>邏輯迴歸</strong>均適用於類別應變項與計量自變項的情況。主要差異：邏輯迴歸（亦稱<strong>Logit分析</strong>）的基本二元形式僅限於兩個群體；判別分析則可處理兩個或以上群體。"
+ },
+ {
+  "ch": "Ch7",
+  "years": [
+   "Ex"
+  ],
+  "en": "___ is a critical step in discriminant analysis because the results can lack generalizability.",
+  "zh": "___是判別分析的關鍵步驟，因為結果可能缺乏推廣性。",
+  "blanks": [
+   [
+    "validation",
+    "cross-validation",
+    "驗證",
+    "交叉驗證"
+   ]
+  ],
+  "answerEN": "Validation（驗證）",
+  "answerZH": "驗證（Validation）",
+  "explainEN": "<strong>Validation</strong> is essential in discriminant analysis to ensure the results generalize beyond the sample used to develop the function. Without validation, the discriminant function may be overfitted to the analysis sample.",
+  "explainZH": "<strong>驗證（Validation）</strong>是判別分析的關鍵步驟，確保結果能推廣至建立函數的樣本之外。缺乏驗證，判別函數可能過度擬合分析樣本。"
+ },
+ {
+  "ch": "Ch7",
+  "years": [
+   "2025s"
+  ],
+  "en": "The ___ is used to test the discriminant function.",
+  "zh": "___用來測試（評估）判別函數。",
+  "blanks": [
+   [
+    "holdout sample",
+    "保留樣本",
+    "holdout group"
+   ]
+  ],
+  "answerEN": "Holdout Sample（保留樣本）",
+  "answerZH": "保留樣本（Holdout Sample）",
+  "explainEN": "The <strong>Holdout Sample</strong> (validation sample) is the portion of the original data set aside and NOT used to develop the discriminant function. It is used to test the function's predictive accuracy on \"new\" observations.",
+  "explainZH": "<strong>保留樣本（Holdout Sample）</strong>（驗證樣本）：從原始資料中保留、<strong>未用於</strong>建立判別函數的部分，專門用來測試判別函數對「新」觀測值的預測準確性。"
+ },
+ {
+  "ch": "Ch7",
+  "years": [
+   "2025s"
+  ],
+  "en": "A ___ is a weight whose size relates to the discriminatory power of that independent variable across the groups of the dependent variable.",
+  "zh": "___的大小與該自變項跨群體的判別力有關。",
+  "blanks": [
+   [
+    "discriminant weight",
+    "判別權重",
+    "discriminant weights"
+   ]
+  ],
+  "answerEN": "Discriminant Weight（判別權重）",
+  "answerZH": "判別權重（Discriminant Weight）",
+  "explainEN": "The <strong>Discriminant Weight</strong> is the coefficient assigned to each independent variable in the discriminant function. Larger absolute weights indicate greater contribution to discrimination. However, multicollinearity can distort weights.",
+  "explainZH": "<strong>判別權重（Discriminant Weight）</strong>：判別函數中各自變項的係數，絕對值越大代表對判別的貢獻越大。但多重共線性可能扭曲權重，此時判別負荷更具解讀價值。"
+ },
+ {
+  "ch": "Ch9",
+  "years": [
+   "2025",
+   "2025s"
+  ],
+  "en": "SEM involves measurement model and ___.",
+  "zh": "SEM包含測量模型與___。",
+  "blanks": [
+   [
+    "structural model",
+    "結構模型"
+   ]
+  ],
+  "answerEN": "Structural Model（結構模型）",
+  "answerZH": "結構模型（Structural Model）",
+  "explainEN": "SEM consists of two components: (1) <strong>Measurement Model</strong> (CFA part) — specifies how observed indicators relate to latent constructs; (2) <strong>Structural Model</strong> — specifies the causal paths and relationships among latent constructs.",
+  "explainZH": "SEM由兩大部分組成：(1)<strong>測量模型（Measurement Model）</strong>（CFA部分）——說明觀察指標如何與潛在構念相關聯；(2)<strong>結構模型（Structural Model）</strong>——設定潛在構念之間的因果路徑與關係。"
+ },
+ {
+  "ch": "Ch9",
+  "years": [
+   "2025"
+  ],
+  "en": "Four types of evidence to imply causality: covariation, ___, nonspurious covariance and theoretical support.",
+  "zh": "隱含因果關係的四類證據：共變、___、非虛假共變與理論支持。",
+  "blanks": [
+   [
+    "time order of occurrence",
+    "time order",
+    "temporal precedence",
+    "時間順序"
+   ]
+  ],
+  "answerEN": "Time Order of Occurrence（時間順序）",
+  "answerZH": "發生的時間順序（Time Order of Occurrence）",
+  "explainEN": "Four conditions for causality: (1) <strong>Covariation</strong> — cause and effect co-vary; (2) <strong>Time Order of Occurrence</strong> — cause precedes effect; (3) <strong>Nonspurious Covariance</strong> — relationship is not due to a third variable; (4) <strong>Theoretical Support</strong>.",
+  "explainZH": "因果關係的四個條件：(1)<strong>共變（Covariation）</strong>——原因與結果共同變動；(2)<strong>時間順序（Time Order）</strong>——原因先於結果發生；(3)<strong>非虛假共變（Nonspurious Covariance）</strong>——關係非第三變項造成；(4)<strong>理論支持（Theoretical Support）</strong>。"
+ },
+ {
+  "ch": "Ch9",
+  "years": [
+   "2025",
+   "2025s"
+  ],
+  "en": "A structural model showing only the ___ constructs.",
+  "zh": "只顯示___構念的結構模型。",
+  "blanks": [
+   [
+    "latent",
+    "潛在"
+   ]
+  ],
+  "answerEN": "Latent（潛在構念）",
+  "answerZH": "潛在（Latent）",
+  "explainEN": "The <strong>Structural Model</strong> in SEM shows only the relationships among <strong>latent constructs</strong> (unobserved variables). It represents the theoretical network of causal paths among constructs, similar to a path diagram but using latent rather than observed variables.",
+  "explainZH": "SEM中的<strong>結構模型</strong>僅呈現<strong>潛在構念</strong>（未觀察變項）之間的關係，代表構念之間的理論因果路徑網絡，類似路徑圖，但使用潛在變項而非觀察變項。"
+ },
+ {
+  "ch": "Ch9",
+  "years": [
+   "2025"
+  ],
+  "en": "The first stage in conducting SEM is to define construct and assign ___ to constructs.",
+  "zh": "進行SEM的第一階段是定義構念，並為構念指定___。",
+  "blanks": [
+   [
+    "variables",
+    "indicators",
+    "observed variables",
+    "變項",
+    "指標"
+   ]
+  ],
+  "answerEN": "Variables / Indicators（變項 ／ 指標）",
+  "answerZH": "變項（Variables）／指標（Indicators）",
+  "explainEN": "The first stage of SEM involves: (1) Defining the theoretical constructs; (2) Assigning <strong>observed indicator variables</strong> to each construct (specifying the measurement model). This step determines which measured items will serve as indicators of each latent variable.",
+  "explainZH": "SEM的第一階段：(1)定義理論構念；(2)為每個構念指定<strong>觀察指標變項</strong>（設定測量模型）。此步驟決定哪些測量題項作為各潛在變項的指標。"
+ },
+ {
+  "ch": "Ch10",
+  "years": [
+   "2025",
+   "2025s"
+  ],
+  "en": "___ is a way of testing how well a user-specified measurement theory fits reality as captured by data.",
+  "zh": "___是一種檢定使用者設定的測量理論是否與資料所反映的現實吻合的方法。",
+  "blanks": [
+   [
+    "confirmatory factor analysis",
+    "cfa",
+    "驗證性因素分析",
+    "confirmatory factor analysis (cfa)"
+   ]
+  ],
+  "answerEN": "Confirmatory Factor Analysis / CFA（驗證性因素分析）",
+  "answerZH": "驗證性因素分析（CFA）",
+  "explainEN": "<strong>Confirmatory Factor Analysis (CFA)</strong> tests a pre-specified measurement theory (which indicators load on which factors) against observed data. Unlike EFA, CFA tests fit rather than exploring structure, and requires theory-driven specification.",
+  "explainZH": "<strong>驗證性因素分析（CFA）</strong>：將事先設定的測量理論（哪些指標負荷於哪些因素）與觀察資料進行檢定。不同於探索性因素分析（EFA），CFA在驗證理論適配度，需要理論驅動的設定。"
+ },
+ {
+  "ch": "Ch10",
+  "years": [
+   "2025"
+  ],
+  "en": "AVE should be ___ or greater to suggest adequate convergent validity.",
+  "zh": "AVE應達___或以上，以顯示充分的收斂效度。",
+  "blanks": [
+   [
+    ".5",
+    "0.5",
+    "50%",
+    "50"
+   ]
+  ],
+  "answerEN": ".50（50% 或以上）",
+  "answerZH": ".50（0.5）",
+  "explainEN": "<strong>AVE (Average Variance Extracted)</strong> ≥ <strong>.50</strong> indicates adequate convergent validity — meaning the latent construct explains more than half the variance of its indicators. AVE is also used for discriminant validity (AVE > squared correlation between constructs).",
+  "explainZH": "<strong>AVE（平均萃取變異量）</strong> ≥ <strong>.50</strong>代表充分的收斂效度——潛在構念解釋其指標超過一半的變異。AVE也用於判別效度（AVE > 構念間相關係數的平方）。"
+ },
+ {
+  "ch": "Ch10",
+  "years": [
+   "2025s"
+  ],
+  "en": "The ___ is a summary measure of convergence among a set of items representing a reflectively measured latent construct.",
+  "zh": "___是代表反映性測量潛在構念的一組題項之間收斂程度的摘要指標。",
+  "blanks": [
+   [
+    "ave",
+    "average variance extracted",
+    "平均萃取變異量"
+   ]
+  ],
+  "answerEN": "AVE — Average Variance Extracted（平均萃取變異量）",
+  "answerZH": "AVE（平均萃取變異量）",
+  "explainEN": "<strong>AVE (Average Variance Extracted)</strong> = average of squared factor loadings for a construct. It reflects the average percentage of variation explained among a construct's items. AVE ≥ .50 is the threshold for acceptable convergent validity.",
+  "explainZH": "<strong>AVE（平均萃取變異量）</strong> = 構念各因素負荷量平方的平均值，反映構念指標被解釋的平均變異百分比。AVE ≥ .50為可接受收斂效度的門檻。"
+ },
+ {
+  "ch": "Ch10",
+  "years": [
+   "2025s"
+  ],
+  "en": "The extent to which a set of measured variables actually represents the theoretical latent construct is called ___.",
+  "zh": "一組測量變項實際代表理論潛在構念的程度稱為___。",
+  "blanks": [
+   [
+    "construct validity",
+    "建構效度",
+    "validity"
+   ]
+  ],
+  "answerEN": "Construct Validity（建構效度）",
+  "answerZH": "建構效度（Construct Validity）",
+  "explainEN": "<strong>Construct Validity</strong> assesses whether indicators actually measure what they are intended to measure (the theoretical latent construct). It encompasses: (1) Convergent Validity (AVE ≥ .50); (2) Discriminant Validity; (3) Nomological Validity.",
+  "explainZH": "<strong>建構效度（Construct Validity）</strong>：評估指標是否真正測量到其設計要測量的理論潛在構念。包含：(1)收斂效度（AVE ≥ .50）；(2)判別效度；(3)法則效度（Nomological Validity）。"
+ },
+ {
+  "ch": "Ch10/11",
+  "years": [
+   "2025s"
+  ],
+  "en": "___ seeks to determine the strength of the paths shown in path diagrams.",
+  "zh": "___旨在確定路徑圖中各路徑的強度。",
+  "blanks": [
+   [
+    "path analysis",
+    "路徑分析"
+   ]
+  ],
+  "answerEN": "Path Analysis（路徑分析）",
+  "answerZH": "路徑分析（Path Analysis）",
+  "explainEN": "<strong>Path Analysis</strong> estimates the magnitude and significance of hypothesized causal paths between variables as shown in a path diagram. It is essentially a series of regression equations that represent the structural model.",
+  "explainZH": "<strong>路徑分析（Path Analysis）</strong>：估計路徑圖中假設因果路徑的大小與顯著性，本質上是代表結構模型的一系列迴歸方程式。"
+ },
+ {
+  "ch": "Ch12",
+  "years": [
+   "2025",
+   "2025s"
+  ],
+  "en": "___ scales imply that the measured variables cause the factors, which would no longer be latent.",
+  "zh": "___量表意味著測量變項導致因素，因素因此不再是潛在的。",
+  "blanks": [
+   [
+    "formative",
+    "形成性"
+   ]
+  ],
+  "answerEN": "Formative（形成性）",
+  "answerZH": "形成性（Formative）",
+  "explainEN": "<strong>Formative Scales</strong>: indicators <em>cause</em> the construct (reverse of reflective). The construct is formed by its indicators, so the construct is not truly \"latent.\" Contrast with <strong>Reflective Scales</strong> where the latent construct causes the indicators.",
+  "explainZH": "<strong>形成性量表（Formative Scales）</strong>：指標<em>導致</em>構念（與反映性相反）。構念由其指標形成，因此構念不再是真正的「潛在」變項。與<strong>反映性量表（Reflective Scales）</strong>相對——後者是潛在構念導致指標。"
+ }
+]

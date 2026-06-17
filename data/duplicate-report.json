@@ -1,0 +1,2285 @@
+[
+  {
+    "duplicateGroupId": "dup_001",
+    "canonicalQuestion": "In an experimental research, ______ is an independent variable which is hypothesized as the reason/“cause” of the outcome variable.",
+    "members": [
+      {
+        "id": "q_0001",
+        "sourceLabels": [
+          "Exercise_Ch6"
+        ],
+        "questionEn": "In an experimental research, ______ is an independent variable which is hypothesized as the reason/cause of the outcome variable."
+      },
+      {
+        "id": "q_0089",
+        "sourceLabels": [
+          "2023"
+        ],
+        "questionEn": "In an experimental research, ______ is an independent variable which is hypothesized as the reason/“cause” of the outcome variable."
+      }
+    ],
+    "years": [
+      "2023"
+    ],
+    "answers": [
+      "treatment"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_002",
+    "canonicalQuestion": "Multivariate techniques for assessing the differences between group means include the Hotelling's T2 for two-group situations and ______ for situations with three or more groups defined by two or more independent variables.",
+    "members": [
+      {
+        "id": "q_0002",
+        "sourceLabels": [
+          "Exercise_Ch6"
+        ],
+        "questionEn": "Multivariate techniques for assessing the differences between group means include the ______ for two-group situations and MANOVA for situations with three or more groups defined by two or more independent variables."
+      },
+      {
+        "id": "q_0005",
+        "sourceLabels": [
+          "Exercise_Ch6"
+        ],
+        "questionEn": "Multivariate techniques for assessing the differences between group means include the ______ for two-group situations and MANOVA for situations with three or more groups defined by two or more independent variables."
+      },
+      {
+        "id": "q_0027",
+        "sourceLabels": [
+          "2025"
+        ],
+        "questionEn": "Multivariate techniques for assessing the differences between group means include the ╴╴╴ for two-group situations and MANOVA for situations with three or more groups defined by two or more independent variables."
+      },
+      {
+        "id": "q_0047",
+        "sourceLabels": [
+          "2025(補考)"
+        ],
+        "questionEn": "Multivariate techniques for assessing the differences between group means include the ╴╴╴ for two-group situations and MANOVA for situations with three or more groups defined by two or more independent variables."
+      },
+      {
+        "id": "q_0090",
+        "sourceLabels": [
+          "2023"
+        ],
+        "questionEn": "Multivariate techniques for assessing the differences between group means include the ______ for two-group situations and MANOVA for situations with three or more groups defined by two or more independent variables."
+      },
+      {
+        "id": "q_0093",
+        "sourceLabels": [
+          "2023"
+        ],
+        "questionEn": "Multivariate techniques for assessing the differences between group means include the ______ for two-group situations and MANOVA for situations with three or more groups defined by two or more independent variables."
+      },
+      {
+        "id": "q_0128",
+        "sourceLabels": [
+          "2022&2021"
+        ],
+        "questionEn": "Multivariate techniques for assessing the differences between group means include the ________ for two-group situations and ________ for situations with three or more groups defined by two or more independent variables."
+      },
+      {
+        "id": "q_0175",
+        "sourceLabels": [
+          "2019"
+        ],
+        "questionEn": "Multivariate techniques for assessing the differences between group means include the Hotelling's T2 for two-group situations and ______ for situations with three or more groups defined by two or more independent variables."
+      },
+      {
+        "id": "q_0257",
+        "sourceLabels": [
+          "2002&2008"
+        ],
+        "questionEn": "Multivariate techniques for assessing the differences between group means include ________ for two-group situations and ________ for situations with three or more groups defined by two or more independent variables."
+      }
+    ],
+    "years": [
+      "2002",
+      "2008",
+      "2019",
+      "2021",
+      "2022",
+      "2023",
+      "2025"
+    ],
+    "answers": [
+      "MANOVA"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_003",
+    "canonicalQuestion": "________ is an individual effect of a treatment variable on the dependent variable(s) observations.",
+    "members": [
+      {
+        "id": "q_0003",
+        "sourceLabels": [
+          "Exercise_Ch6"
+        ],
+        "questionEn": "______ is an individual effect of a treatment variable on the dependent variable(s) observations."
+      },
+      {
+        "id": "q_0072",
+        "sourceLabels": [
+          "2024"
+        ],
+        "questionEn": "________ is an individual effect of a treatment variable on the dependent variable(s) observations."
+      },
+      {
+        "id": "q_0091",
+        "sourceLabels": [
+          "2023"
+        ],
+        "questionEn": "______ is an individual effect of a treatment variable on the dependent variable(s) observations."
+      },
+      {
+        "id": "q_0150",
+        "sourceLabels": [
+          "2020"
+        ],
+        "questionEn": "╴╴╴ is an individual effect of a treatment variable on the dependent variable(s) observations."
+      }
+    ],
+    "years": [
+      "2020",
+      "2023",
+      "2024"
+    ],
+    "answers": [
+      "Main effect"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_005",
+    "canonicalQuestion": "The sample size that the MANOVA requires must exceed specific thresholds in each cell of the analysis; a recommended minimum cell size is ________ observations.",
+    "members": [
+      {
+        "id": "q_0006",
+        "sourceLabels": [
+          "Exercise_Ch6"
+        ],
+        "questionEn": "The sample size that the MANOVA requires must exceed specific thresholds in each cell of the analysis; a recommended minimum cell size is ______ observations."
+      },
+      {
+        "id": "q_0028",
+        "sourceLabels": [
+          "2025"
+        ],
+        "questionEn": "The sample size that the MANOVA requires must exceed specific thresholds in each cell of the analysis; a recommended minimum cell size is ╴╴╴ observations."
+      },
+      {
+        "id": "q_0073",
+        "sourceLabels": [
+          "2024"
+        ],
+        "questionEn": "The sample size that the MANOVA requires must exceed specific thresholds in each cell of the analysis; a recommended minimum cell size is ________ observations."
+      },
+      {
+        "id": "q_0094",
+        "sourceLabels": [
+          "2023"
+        ],
+        "questionEn": "The sample size that the MANOVA requires must exceed specific thresholds in each cell of the analysis; a recommended minimum cell size is ______ observations."
+      },
+      {
+        "id": "q_0127",
+        "sourceLabels": [
+          "2022&2021"
+        ],
+        "questionEn": "The sample size that the MANOVA requires must exceed specific thresholds in each cell of the analysis; a recommended minimum cell size is ________ observations."
+      },
+      {
+        "id": "q_0151",
+        "sourceLabels": [
+          "2020"
+        ],
+        "questionEn": "The sample size that the MANOVA requires must exceed specific thresholds in each cell of the analysis; a recommended minimum cell size is ╴╴╴ observations."
+      },
+      {
+        "id": "q_0176",
+        "sourceLabels": [
+          "2019"
+        ],
+        "questionEn": "The sample size that the MANOVA requires must exceed specific thresholds in each cell of the analysis; a recommended minimum cell size is ______ observations."
+      },
+      {
+        "id": "q_0193",
+        "sourceLabels": [
+          "2018"
+        ],
+        "questionEn": "The sample size that the MANOVA requires must exceed specific thresholds in each cell of the analysis; a recommended minimum cell size is ______ observations."
+      },
+      {
+        "id": "q_0255",
+        "sourceLabels": [
+          "2002&2008"
+        ],
+        "questionEn": "The sample size that the MANOVA requires must exceed specific thresholds in each cell of the analysis; a recommended minimum cell size is ________ observations."
+      }
+    ],
+    "years": [
+      "2002",
+      "2008",
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "answers": [
+      "20"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_006",
+    "canonicalQuestion": "MANOVA presents the researcher with several criteria with which to assess multivariate differences across groups. The four most popular are Roy's GCR, ________, Hotelling's Trace, and Pillai's Criterion.",
+    "members": [
+      {
+        "id": "q_0007",
+        "sourceLabels": [
+          "Exercise_Ch6"
+        ],
+        "questionEn": "MANOVA presents the researcher with several criteria to assess multivariate differences across groups. The four most popular are ______, Roy's gcr, Hotelling's trace, and Pillai's criterion."
+      },
+      {
+        "id": "q_0095",
+        "sourceLabels": [
+          "2023"
+        ],
+        "questionEn": "MANOVA presents the researcher with several criteria with which to assess multivariate differences across groups. The four most popular are ______, Roy's gcr, Hotelling's trace, and Pillai's criterion."
+      },
+      {
+        "id": "q_0123",
+        "sourceLabels": [
+          "2022&2021"
+        ],
+        "questionEn": "MANOVA presents the researcher with several criteria with which to assess multivariate differences across groups. The four most popular are Roy's GCR, ________, Hotelling's Trace, and Pillai's Criterion."
+      },
+      {
+        "id": "q_0251",
+        "sourceLabels": [
+          "2002&2008"
+        ],
+        "questionEn": "MANOVA presents the researcher with several criteria with which to assess multivariate differences across groups. The four most popular are Roy's gcr, ________, Hotelling's trace, and Pillai's criterion."
+      }
+    ],
+    "years": [
+      "2002",
+      "2008",
+      "2021",
+      "2022",
+      "2023"
+    ],
+    "answers": [
+      "Wilks' Lambda"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_007",
+    "canonicalQuestion": "Approaches to assess the dependent variate in a MANOVA include Bonferroni inequality and ______.",
+    "members": [
+      {
+        "id": "q_0008",
+        "sourceLabels": [
+          "Exercise_Ch6"
+        ],
+        "questionEn": "Approaches to assess the dependent variate in a MANOVA include Bonferroni inequality and ______."
+      },
+      {
+        "id": "q_0096",
+        "sourceLabels": [
+          "2023"
+        ],
+        "questionEn": "Approaches to assess the dependent variate in a MANOVA include Bonferroni inequality and ______."
+      }
+    ],
+    "years": [
+      "2023"
+    ],
+    "answers": [
+      "Discriminant analysis"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_009",
+    "canonicalQuestion": "╴╴╴ examine the effects of several factors simultaneously by forming groups based on all possible combinations of the levels values of the various treatment variables.",
+    "members": [
+      {
+        "id": "q_0010",
+        "sourceLabels": [
+          "Exercise_Ch6"
+        ],
+        "questionEn": "______ examine the effects of several factors simultaneously by forming groups based on all possible combinations of the levels of the various treatment variables."
+      },
+      {
+        "id": "q_0050",
+        "sourceLabels": [
+          "2025(補考)"
+        ],
+        "questionEn": "╴╴╴ examine the effects of several factors simultaneously by forming groups based on all possible combinations of the levels values of the various treatment variables."
+      },
+      {
+        "id": "q_0098",
+        "sourceLabels": [
+          "2023"
+        ],
+        "questionEn": "______ examine the effects of several factors simultaneously by forming groups based on all possible combinations of the levels of the various treatment variables."
+      },
+      {
+        "id": "q_0200",
+        "sourceLabels": [
+          "2018"
+        ],
+        "questionEn": "______ examine the effects of several factors simultaneously by forming groups based on all possible combinations of the levels of the various treatment variables."
+      },
+      {
+        "id": "q_0263",
+        "sourceLabels": [
+          "2002&2008"
+        ],
+        "questionEn": "________ examine the effects of several factors simultaneously by forming groups based on all possible combinations of the levels of the various treatment variables."
+      }
+    ],
+    "years": [
+      "2002",
+      "2008",
+      "2018",
+      "2023",
+      "2025"
+    ],
+    "answers": [
+      "Factorial designs"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_017",
+    "canonicalQuestion": "______ is the preferred method to assess the contribution of each variable to a discriminant function.",
+    "members": [
+      {
+        "id": "q_0018",
+        "sourceLabels": [
+          "Exercise_Ch7"
+        ],
+        "questionEn": "A preferred method to assess the contribution of each variable to a discriminant function is ______."
+      },
+      {
+        "id": "q_0083",
+        "sourceLabels": [
+          "2023"
+        ],
+        "questionEn": "______ is the preferred method to assess the contribution of each variable to a discriminant function."
+      }
+    ],
+    "years": [
+      "2023"
+    ],
+    "answers": [
+      "Discriminant loading"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_019",
+    "canonicalQuestion": "Discriminant analysis involves deriving a variate, the linear combination of the two or more independent variables that will discriminate best between a priori defined groups. The linear combination for a discriminant analysis is known as ________.",
+    "members": [
+      {
+        "id": "q_0020",
+        "sourceLabels": [
+          "2025"
+        ],
+        "questionEn": "Discriminant analysis involves deriving a variate, the linear combination of the two or more independent variables that will discriminate best between a priori defined groups. The linear combination for a discriminant analysis is known as ╴╴╴."
+      },
+      {
+        "id": "q_0061",
+        "sourceLabels": [
+          "2024"
+        ],
+        "questionEn": "Discriminant analysis involves deriving a variate, the linear combination of the two or more independent variables that will discriminate best between a priori defined groups. The linear combination for a discriminant analysis is known as ________."
+      },
+      {
+        "id": "q_0121",
+        "sourceLabels": [
+          "2022&2021"
+        ],
+        "questionEn": "Discriminant analysis involves deriving a variate, the linear combination of the two or more independent variables that will discriminate best between a priori defined groups. The linear combination for a discriminant analysis is known as ________."
+      },
+      {
+        "id": "q_0165",
+        "sourceLabels": [
+          "2019"
+        ],
+        "questionEn": "Discriminant analysis involves deriving a variate, the linear combination of the two or more independent variables that will discriminate best between a priori defined groups. The linear combination for a discriminant analysis is known as ______."
+      },
+      {
+        "id": "q_0182",
+        "sourceLabels": [
+          "2018"
+        ],
+        "questionEn": "Discriminant analysis involves deriving a variate, the linear combination of the two or more independent variables that will discriminate best between a priori defined groups. The linear combination for a discriminant analysis is known as ______."
+      },
+      {
+        "id": "q_0203",
+        "sourceLabels": [
+          "2017"
+        ],
+        "questionEn": "Discriminant analysis involves deriving a variate, the linear combination of the two or more independent variables that will discriminate best between a priori defined groups. The linear combination for a discriminant analysis is known as ______."
+      },
+      {
+        "id": "q_0219",
+        "sourceLabels": [
+          "2016"
+        ],
+        "questionEn": "Discriminant analysis involves deriving a variate, the linear combination of the two or more independent variables that will discriminate best between a priori defined groups. The linear combination for a discriminant analysis is known as ╴╴╴."
+      },
+      {
+        "id": "q_0233",
+        "sourceLabels": [
+          "2015"
+        ],
+        "questionEn": "Discriminant analysis involves deriving a variate, the linear combination of the two or more independent variables that will discriminate best between a priori defined groups. The linear combination for a discriminant analysis is known as ╴╴╴."
+      },
+      {
+        "id": "q_0249",
+        "sourceLabels": [
+          "2002&2008"
+        ],
+        "questionEn": "Discriminant analysis involves deriving a variate, the linear combination of the two or more independent variables that will discriminate best between a priori defined groups. The linear combination for a discriminant analysis is known as ________."
+      }
+    ],
+    "years": [
+      "2002",
+      "2008",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2021",
+      "2022",
+      "2024",
+      "2025"
+    ],
+    "answers": [
+      "discriminant function"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_020",
+    "canonicalQuestion": "Discriminant analysis multiplies each independent variable by its corresponding weight and adds these products together. The result is a single composite ________ for each individual in the analysis.",
+    "members": [
+      {
+        "id": "q_0021",
+        "sourceLabels": [
+          "2025"
+        ],
+        "questionEn": "Discriminant analysis multiplies each independent variable by its corresponding weight and adds these products together. The result is a single composite ╴╴╴ for each individual in the analysis."
+      },
+      {
+        "id": "q_0041",
+        "sourceLabels": [
+          "2025(補考)"
+        ],
+        "questionEn": "Discriminant analysis multiplies each independent variable by its corresponding weight and adds these products together. The result is a single composite ╴╴╴ for each individual in the analysis."
+      },
+      {
+        "id": "q_0062",
+        "sourceLabels": [
+          "2024"
+        ],
+        "questionEn": "Discriminant analysis multiplies each independent variable by its corresponding weight and adds these products together. The result is a single composite ________ for each individual in the analysis."
+      },
+      {
+        "id": "q_0118",
+        "sourceLabels": [
+          "2022&2021"
+        ],
+        "questionEn": "Discriminant analysis multiplies each independent variable by its corresponding weight and adds these products together. The result is a single composite ________ for each individual in the analysis."
+      },
+      {
+        "id": "q_0166",
+        "sourceLabels": [
+          "2019"
+        ],
+        "questionEn": "Discriminant analysis multiplies each independent variable by its corresponding weight and adds these products together. The result is a single composite ______ for each individual in the analysis."
+      },
+      {
+        "id": "q_0183",
+        "sourceLabels": [
+          "2018"
+        ],
+        "questionEn": "Discriminant analysis multiplies each independent variable by its corresponding weight and adds these products together. The result is a single composite ______ for each individual in the analysis."
+      },
+      {
+        "id": "q_0204",
+        "sourceLabels": [
+          "2017"
+        ],
+        "questionEn": "Discriminant analysis multiplies each independent variable by its corresponding weight and adds these products together. The result is a single composite ______ for each individual in the analysis."
+      },
+      {
+        "id": "q_0220",
+        "sourceLabels": [
+          "2016"
+        ],
+        "questionEn": "Discriminant analysis multiplies each independent variable by its corresponding weight and adds these products together. The result is a single composite ╴╴╴ for each individual in the analysis."
+      },
+      {
+        "id": "q_0234",
+        "sourceLabels": [
+          "2015"
+        ],
+        "questionEn": "Discriminant analysis multiplies each independent variable by its corresponding weight and adds these products together. The result is a single composite ╴╴╴ for each individual in the analysis."
+      },
+      {
+        "id": "q_0245",
+        "sourceLabels": [
+          "2002&2008"
+        ],
+        "questionEn": "Discriminant analysis multiplies each independent variable by its corresponding weight and adds these products together. The result is a single composite ________ for each individual in the analysis."
+      }
+    ],
+    "years": [
+      "2002",
+      "2008",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2021",
+      "2022",
+      "2024",
+      "2025"
+    ],
+    "answers": [
+      "discriminant Z score"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_021",
+    "canonicalQuestion": "Discriminant analysis is quite sensitive to the ratio of sample size to the number of predictor variables. Many studies suggest a ratio of ________ observations for each predictor variable. The minimum size recommended is ________ observations per independent variable.",
+    "members": [
+      {
+        "id": "q_0022",
+        "sourceLabels": [
+          "2025"
+        ],
+        "questionEn": "Discriminant analysis is quite sensitive to the ratio of sample size to the number of predictor variables. Many studies suggest a ratio of ╴╴╴ observations for each predictor variable. The minimum size recommended is five observations per independent variable."
+      },
+      {
+        "id": "q_0063",
+        "sourceLabels": [
+          "2024"
+        ],
+        "questionEn": "Discriminant analysis is quite sensitive to the ratio of sample size to the number of predictor variables. Many studies suggest a ratio of ________ observations for each predictor variable. The minimum size recommended is five observations per independent variable."
+      },
+      {
+        "id": "q_0116",
+        "sourceLabels": [
+          "2022&2021"
+        ],
+        "questionEn": "Discriminant analysis is quite sensitive to the ratio of sample size to the number of predictor variables. Many studies suggest a ratio of ________ observations for each predictor variable. The minimum size recommended is ________ observations per independent variable."
+      },
+      {
+        "id": "q_0142",
+        "sourceLabels": [
+          "2020"
+        ],
+        "questionEn": "Discriminant analysis is quite sensitive to the ratio of sample size to the number of predictor variables. Many studies suggest a ratio of ╴╴╴ observations for each predictor variable. The minimum size recommended is five observations per independent variable."
+      },
+      {
+        "id": "q_0167",
+        "sourceLabels": [
+          "2019"
+        ],
+        "questionEn": "Discriminant analysis is quite sensitive to the ratio of sample size to the number of predictor variables. Many studies suggest a ratio of ______ observations for each predictor variable. The minimum size recommended is five observations per independent variable."
+      },
+      {
+        "id": "q_0184",
+        "sourceLabels": [
+          "2018"
+        ],
+        "questionEn": "Discriminant analysis is quite sensitive to the ratio of sample size to the number of predictor variables. Many studies suggest a ratio of ______ observations for each predictor variable. The minimum size recommended is five observations per independent variable."
+      },
+      {
+        "id": "q_0190",
+        "sourceLabels": [
+          "2018"
+        ],
+        "questionEn": "Discriminant analysis is quite sensitive to the ratio of sample size to the number of predictor variables. Many studies suggest a ratio of ______ observations for each predictor variable. The minimum size recommended is five observations per independent variable."
+      },
+      {
+        "id": "q_0206",
+        "sourceLabels": [
+          "2017"
+        ],
+        "questionEn": "Discriminant analysis is quite sensitive to the ratio of sample size to the number of predictor variables. Many studies suggest a ratio of ______ observations for each predictor variable. The minimum size recommended is five observations per independent variable."
+      },
+      {
+        "id": "q_0235",
+        "sourceLabels": [
+          "2015"
+        ],
+        "questionEn": "Discriminant analysis is quite sensitive to the ratio of sample size to the number of predictor variables. Many studies suggest a ratio of ╴╴╴ observations for each predictor variable. The minimum size recommended is five observations per independent variable."
+      },
+      {
+        "id": "q_0242",
+        "sourceLabels": [
+          "2002&2008"
+        ],
+        "questionEn": "Discriminant analysis is quite sensitive to the ratio of sample size to the number of predictor variables. Many studies suggest a ratio of ________ observations for each predictor variable. The minimum size recommended is ________ observations per independent variable."
+      }
+    ],
+    "years": [
+      "2002",
+      "2008",
+      "2015",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2024",
+      "2025"
+    ],
+    "answers": [
+      "20",
+      "five"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_022",
+    "canonicalQuestion": "The ________, referred to sometimes as structure correlations, reflect the variance that the independent variables share with the discriminant function and can be interpreted like factor loadings in assessing the relative contribution of each independent variable to the discriminant function.",
+    "members": [
+      {
+        "id": "q_0023",
+        "sourceLabels": [
+          "2025"
+        ],
+        "questionEn": "The ╴╴╴, referred to sometimes as structure correlations, reflect the variance that the independent variables share with the discriminant function and can be interpreted like factor loadings in assessing the relative contribution of each independent variable to the discriminant function."
+      },
+      {
+        "id": "q_0043",
+        "sourceLabels": [
+          "2025(補考)"
+        ],
+        "questionEn": "The ╴╴╴, referred to sometimes as structure correlations, reflect the variance that the independent variables share with the discriminant function and can be interpreted like factor loadings in assessing the relative contribution of each independent variable to the discriminant function."
+      },
+      {
+        "id": "q_0064",
+        "sourceLabels": [
+          "2024"
+        ],
+        "questionEn": "The ________, referred to sometimes as structure correlations, reflect the variance that the independent variables share with the discriminant function and can be interpreted like factor loadings in assessing the relative contribution of each independent variable to the discriminant function."
+      },
+      {
+        "id": "q_0119",
+        "sourceLabels": [
+          "2022&2021"
+        ],
+        "questionEn": "The ________, referred to sometimes as structure correlations, reflect the variance that the independent variables share with the discriminant function and can be interpreted like factor loadings in assessing the relative contribution of each independent variable to the discriminant function."
+      },
+      {
+        "id": "q_0143",
+        "sourceLabels": [
+          "2020"
+        ],
+        "questionEn": "The ╴╴╴, referred to sometimes as structure correlations, reflect the variance that the independent variables share with the discriminant function and can be interpreted like factor loadings in assessing the relative contribution of each independent variable to the discriminant function."
+      },
+      {
+        "id": "q_0168",
+        "sourceLabels": [
+          "2019"
+        ],
+        "questionEn": "The ______, referred to sometimes as structure correlations, reflect the variance that the independent variables share with the discriminant function and can be interpreted like factor loadings in assessing the relative contribution of each independent variable to the discriminant function."
+      },
+      {
+        "id": "q_0185",
+        "sourceLabels": [
+          "2018"
+        ],
+        "questionEn": "The ______, referred to sometimes as structure correlations, reflect the variance that the independent variables share with the discriminant function and can be interpreted like factor loadings in assessing the relative contribution of each independent variable to the discriminant function."
+      },
+      {
+        "id": "q_0208",
+        "sourceLabels": [
+          "2017"
+        ],
+        "questionEn": "The ______, referred to sometimes as structure correlations, reflect the variance that the independent variables share with the discriminant function and can be interpreted like factor loadings in assessing the relative contribution of each independent variable to the discriminant function."
+      },
+      {
+        "id": "q_0224",
+        "sourceLabels": [
+          "2016"
+        ],
+        "questionEn": "The ╴╴╴, referred to sometimes as structure correlations, reflect the variance that the independent variables share with the discriminant function and can be interpreted like factor loadings in assessing the relative contribution of each independent variable to the discriminant function."
+      },
+      {
+        "id": "q_0236",
+        "sourceLabels": [
+          "2015"
+        ],
+        "questionEn": "The ╴╴╴, referred to sometimes as structure correlations, reflect the variance that the independent variables share with the discriminant function and can be interpreted like factor loadings in assessing the relative contribution of each independent variable to the discriminant function."
+      },
+      {
+        "id": "q_0246",
+        "sourceLabels": [
+          "2002&2008"
+        ],
+        "questionEn": "The ________, referred to sometimes as structure correlations, reflect the variance that the independent variables share with the discriminant function and can be interpreted like factor loadings in assessing the relative contribution of each independent variable to the discriminant function."
+      }
+    ],
+    "years": [
+      "2002",
+      "2008",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2024",
+      "2025"
+    ],
+    "answers": [
+      "discriminant loadings"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_023",
+    "canonicalQuestion": "______ of the discriminant functions is most likely needed when we interpret two or more functions.",
+    "members": [
+      {
+        "id": "q_0024",
+        "sourceLabels": [
+          "2025"
+        ],
+        "questionEn": "╴╴╴ of the discriminant functions is most likely needed when we interpret two or more functions."
+      },
+      {
+        "id": "q_0186",
+        "sourceLabels": [
+          "2018"
+        ],
+        "questionEn": "______ of the discriminant functions is most likely needed when we interpret two or more functions."
+      },
+      {
+        "id": "q_0237",
+        "sourceLabels": [
+          "2015"
+        ],
+        "questionEn": "╴╴╴ of the discriminant functions is most likely needed when we interpret two or more functions."
+      }
+    ],
+    "years": [
+      "2015",
+      "2018",
+      "2025"
+    ],
+    "answers": [
+      "Rotation"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_024",
+    "canonicalQuestion": "________ is calculated as the number of objects in the diagonal of the classification matrix divided by the total number of objects.",
+    "members": [
+      {
+        "id": "q_0025",
+        "sourceLabels": [
+          "2025"
+        ],
+        "questionEn": "╴╴╴ is calculated as the number of objects in the diagonal of the classification matrix divided by the total number of objects."
+      },
+      {
+        "id": "q_0045",
+        "sourceLabels": [
+          "2025(補考)"
+        ],
+        "questionEn": "╴╴╴ is calculated as the number of objects in the diagonal of the classification matrix divided by the total number of objects."
+      },
+      {
+        "id": "q_0066",
+        "sourceLabels": [
+          "2024"
+        ],
+        "questionEn": "________ is calculated as the number of objects in the diagonal of the classification matrix divided by the total number of objects."
+      },
+      {
+        "id": "q_0084",
+        "sourceLabels": [
+          "2023"
+        ],
+        "questionEn": "______ is calculated as the number of objects in the diagonal of the classification matrix divided by the total number of objects."
+      },
+      {
+        "id": "q_0114",
+        "sourceLabels": [
+          "2022&2021"
+        ],
+        "questionEn": "________ is calculated as the number of objects in the diagonal of the classification matrix divided by the total number of objects."
+      },
+      {
+        "id": "q_0145",
+        "sourceLabels": [
+          "2020"
+        ],
+        "questionEn": "╴╴╴ is calculated as the number of objects in the diagonal of the classification matrix divided by the total number of objects."
+      },
+      {
+        "id": "q_0170",
+        "sourceLabels": [
+          "2019"
+        ],
+        "questionEn": "______ is calculated as the number of objects in the diagonal of the classification matrix divided by the total number of objects."
+      },
+      {
+        "id": "q_0187",
+        "sourceLabels": [
+          "2018"
+        ],
+        "questionEn": "______ is calculated as the number of objects in the diagonal of the classification matrix divided by the total number of objects."
+      },
+      {
+        "id": "q_0202",
+        "sourceLabels": [
+          "2017"
+        ],
+        "questionEn": "______ is calculated as the number of objects in the diagonal of the classification matrix divided by the total number of objects."
+      },
+      {
+        "id": "q_0218",
+        "sourceLabels": [
+          "2016"
+        ],
+        "questionEn": "╴╴╴ is calculated as the number of objects in the diagonal of the classification matrix divided by the total number of objects."
+      },
+      {
+        "id": "q_0238",
+        "sourceLabels": [
+          "2015"
+        ],
+        "questionEn": "╴╴╴ is calculated as the number of objects in the diagonal of the classification matrix divided by the total number of objects."
+      },
+      {
+        "id": "q_0240",
+        "sourceLabels": [
+          "2002&2008"
+        ],
+        "questionEn": "________ is calculated as the number of objects in the diagonal of the classification matrix divided by the total number of objects."
+      }
+    ],
+    "years": [
+      "2002",
+      "2008",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "answers": [
+      "Hit ratio"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_025",
+    "canonicalQuestion": "Objectives of MANOVA are to analyze a dependence relationship represented as the differences in a set of dependent measure across a series of groups formed by one or more categorical ________ measures.",
+    "members": [
+      {
+        "id": "q_0026",
+        "sourceLabels": [
+          "2025"
+        ],
+        "questionEn": "Objectives of MANOVA are to analyze a dependence relationship represented as the differences in a set of dependent measure across a series of groups formed by one or more categorical ╴╴╴ measures."
+      },
+      {
+        "id": "q_0070",
+        "sourceLabels": [
+          "2024"
+        ],
+        "questionEn": "Objectives of MANOVA are to analyze a dependence relationship represented as the differences in a set of dependent measure across a series of groups formed by one or more categorical ________ measures."
+      },
+      {
+        "id": "q_0148",
+        "sourceLabels": [
+          "2020"
+        ],
+        "questionEn": "Objectives of MANOVA are to analyze a dependence relationship represented as the differences in a set of dependent measure across a series of groups formed by one or more categorical ╴╴╴ measures."
+      },
+      {
+        "id": "q_0174",
+        "sourceLabels": [
+          "2019"
+        ],
+        "questionEn": "Objectives of MANOVA are to analyze a dependence relationship represented as the differences in a set of dependent measure across a series of groups formed by one or more categorical ______ measures."
+      }
+    ],
+    "years": [
+      "2019",
+      "2020",
+      "2024",
+      "2025"
+    ],
+    "answers": [
+      "independent"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_026",
+    "canonicalQuestion": "Two methods to assess the dependent variate are ╴╴╴ and stepdown analysis.",
+    "members": [
+      {
+        "id": "q_0029",
+        "sourceLabels": [
+          "2025"
+        ],
+        "questionEn": "Two methods to assess the dependent variate are ╴╴╴ and stepdown analysis."
+      },
+      {
+        "id": "q_0049",
+        "sourceLabels": [
+          "2025(補考)"
+        ],
+        "questionEn": "Two methods to assess the dependent variate are ╴╴╴ and stepdown analysis."
+      }
+    ],
+    "years": [
+      "2025"
+    ],
+    "answers": [
+      "Bonferroni's inequality"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_027",
+    "canonicalQuestion": "Post hoc methods to identify differences between individual groups include ________, Tukey's LSD and Duncan's test.",
+    "members": [
+      {
+        "id": "q_0030",
+        "sourceLabels": [
+          "2025"
+        ],
+        "questionEn": "Post hoc methods to identify differences between individual groups include ╴╴╴, Tukey's LSD, and Duncan's test."
+      },
+      {
+        "id": "q_0076",
+        "sourceLabels": [
+          "2024"
+        ],
+        "questionEn": "Post hoc methods to identify differences between individual groups include ________, Tukey's LSD and Duncan's test."
+      },
+      {
+        "id": "q_0153",
+        "sourceLabels": [
+          "2020"
+        ],
+        "questionEn": "Post hoc methods to identify differences between individual groups include ╴╴╴, Tukey's LSD and Duncan's test."
+      }
+    ],
+    "years": [
+      "2020",
+      "2024",
+      "2025"
+    ],
+    "answers": [
+      "Scheffe method"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_028",
+    "canonicalQuestion": "To further identify differences between individual groups in MANOVA, the researcher usually specifies the groups to be compared through a ________, which is just a combination of group means that represent a specific planned comparison.",
+    "members": [
+      {
+        "id": "q_0031",
+        "sourceLabels": [
+          "2025"
+        ],
+        "questionEn": "To further identify differences between individual groups in MANOVA, the researcher usually specifies the groups to be compared through a ╴╴╴, which is just a combination of group means that represent a specific planned comparison."
+      },
+      {
+        "id": "q_0051",
+        "sourceLabels": [
+          "2025(補考)"
+        ],
+        "questionEn": "To further identify differences between individual groups in MANOVA, the researcher usually specifies the groups to be compared through a ╴╴╴, which is just a combination of group means that represent a specific planned comparison."
+      },
+      {
+        "id": "q_0154",
+        "sourceLabels": [
+          "2020"
+        ],
+        "questionEn": "To further identify differences between individual groups in MANOVA, the researcher usually specifies the groups to be compared through a ╴╴╴, which is just a combination of group means that represent a specific planned comparison."
+      },
+      {
+        "id": "q_0179",
+        "sourceLabels": [
+          "2019"
+        ],
+        "questionEn": "To further identify differences between individual groups in MANOVA, the researcher usually specifies the groups to be compared through a ______, which is just a combination of group means that represent a specific planned comparison."
+      },
+      {
+        "id": "q_0252",
+        "sourceLabels": [
+          "2002&2008"
+        ],
+        "questionEn": "To further identify differences between individual groups in MANOVA, the researcher usually specifies the groups to be compared through a ________, which is just a combination of group means that represent a specific planned comparison."
+      }
+    ],
+    "years": [
+      "2002",
+      "2008",
+      "2019",
+      "2020",
+      "2025"
+    ],
+    "answers": [
+      "contrast"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_029",
+    "canonicalQuestion": "There are special MANOVA models, termed ________, that can account for this dependence and still ascertain whether any differences occurred across individuals for the set of dependent variables.",
+    "members": [
+      {
+        "id": "q_0032",
+        "sourceLabels": [
+          "2025"
+        ],
+        "questionEn": "There are special MANOVA models, termed ╴╴╴, that can account for this dependence and still ascertain whether any differences occurred across individuals for the set of dependent variables."
+      },
+      {
+        "id": "q_0125",
+        "sourceLabels": [
+          "2022&2021"
+        ],
+        "questionEn": "There are special MANOVA models, termed ________, that can account for this dependence and still ascertain whether any differences occurred across individuals for the set of dependent variables."
+      },
+      {
+        "id": "q_0197",
+        "sourceLabels": [
+          "2018"
+        ],
+        "questionEn": "There are special MANOVA models, termed ______, that can account for this dependence and still ascertain whether any differences occurred across individuals for the set of dependent variables."
+      },
+      {
+        "id": "q_0253",
+        "sourceLabels": [
+          "2002&2008"
+        ],
+        "questionEn": "There are special MANOVA models, termed ________, that can account for this dependence and still ascertain whether any differences occurred across individuals for the set of dependent variables."
+      }
+    ],
+    "years": [
+      "2002",
+      "2008",
+      "2018",
+      "2021",
+      "2022",
+      "2025"
+    ],
+    "answers": [
+      "repeated measures"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_030",
+    "canonicalQuestion": "SEM involves measurement model and ╴╴╴.",
+    "members": [
+      {
+        "id": "q_0033",
+        "sourceLabels": [
+          "2025"
+        ],
+        "questionEn": "SEM involves measurement model and ╴╴╴."
+      },
+      {
+        "id": "q_0053",
+        "sourceLabels": [
+          "2025(補考)"
+        ],
+        "questionEn": "SEM involves measurement model and ╴╴╴."
+      }
+    ],
+    "years": [
+      "2025"
+    ],
+    "answers": [
+      "structural model"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_032",
+    "canonicalQuestion": "A structural model showing only the ╴╴╴ constructs.",
+    "members": [
+      {
+        "id": "q_0035",
+        "sourceLabels": [
+          "2025"
+        ],
+        "questionEn": "A structural model showing only the ╴╴╴ constructs."
+      },
+      {
+        "id": "q_0055",
+        "sourceLabels": [
+          "2025(補考)"
+        ],
+        "questionEn": "A structural model showing only the ╴╴╴ constructs."
+      }
+    ],
+    "years": [
+      "2025"
+    ],
+    "answers": [
+      "latent"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_034",
+    "canonicalQuestion": "╴╴╴ is a way of testing how well a user-specified measurement theory composed of patterns among measured variables and factors fits reality as captured by data.",
+    "members": [
+      {
+        "id": "q_0037",
+        "sourceLabels": [
+          "2025"
+        ],
+        "questionEn": "╴╴╴ is a way of testing how well a user-specified measurement theory composed of patterns among measured variables and factors fits reality as captured by data."
+      },
+      {
+        "id": "q_0057",
+        "sourceLabels": [
+          "2025(補考)"
+        ],
+        "questionEn": "╴╴╴ is a way of testing how well a user-specified measurement theory composed of patterns among measured variables and factors fits reality as captured by data."
+      }
+    ],
+    "years": [
+      "2025"
+    ],
+    "answers": [
+      "Confirmatory Factor Analysis"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_036",
+    "canonicalQuestion": "╴╴╴ scales imply that the measured variables cause the factors, which would no longer be latent.",
+    "members": [
+      {
+        "id": "q_0039",
+        "sourceLabels": [
+          "2025"
+        ],
+        "questionEn": "╴╴╴ scales imply that the measured variables cause the factors, which would no longer be latent."
+      },
+      {
+        "id": "q_0059",
+        "sourceLabels": [
+          "2025(補考)"
+        ],
+        "questionEn": "╴╴╴ scales imply that the measured variables cause the factors, which would no longer be latent."
+      }
+    ],
+    "years": [
+      "2025"
+    ],
+    "answers": [
+      "Formative"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_046",
+    "canonicalQuestion": "Discriminant analysis is the appropriate statistical technique when the dependent variable is ______ and the independent variables are metric.",
+    "members": [
+      {
+        "id": "q_0060",
+        "sourceLabels": [
+          "2024"
+        ],
+        "questionEn": "Discriminant analysis is an appropriate technique when the dependent variable is ________ and the independent variables are metric."
+      },
+      {
+        "id": "q_0139",
+        "sourceLabels": [
+          "2020"
+        ],
+        "questionEn": "Discriminant analysis is an appropriate technique when the dependent variable is ╴╴╴ and the independent variables are metric."
+      },
+      {
+        "id": "q_0201",
+        "sourceLabels": [
+          "2017"
+        ],
+        "questionEn": "Discriminant analysis is the appropriate statistical technique when the dependent variable is ______ and the independent variables are metric."
+      }
+    ],
+    "years": [
+      "2017",
+      "2020",
+      "2024"
+    ],
+    "answers": [
+      "nonmetric"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_047",
+    "canonicalQuestion": "The ______ is a relative measure among all variables that is indicative of each variable's discriminating power.",
+    "members": [
+      {
+        "id": "q_0065",
+        "sourceLabels": [
+          "2024"
+        ],
+        "questionEn": "________ is a relative measure of discriminating power among all variables across all discriminant functions."
+      },
+      {
+        "id": "q_0088",
+        "sourceLabels": [
+          "2023"
+        ],
+        "questionEn": "The ______ is a relative measure among all variables that is indicative of each variable's discriminating power."
+      },
+      {
+        "id": "q_0117",
+        "sourceLabels": [
+          "2022&2021"
+        ],
+        "questionEn": "The ________ is a relative measure among all variables that is indicative of each variable's discriminant power."
+      },
+      {
+        "id": "q_0144",
+        "sourceLabels": [
+          "2020"
+        ],
+        "questionEn": "╴╴╴ is a relative measure of discriminating power among all variables across all discriminant functions."
+      },
+      {
+        "id": "q_0192",
+        "sourceLabels": [
+          "2018"
+        ],
+        "questionEn": "The ______ is a relative measure among all variables that is indicative of each variable's discriminating power."
+      },
+      {
+        "id": "q_0209",
+        "sourceLabels": [
+          "2017"
+        ],
+        "questionEn": "The ______ is a relative measure among all variables that is indicative of each variable's discriminating power."
+      },
+      {
+        "id": "q_0225",
+        "sourceLabels": [
+          "2016"
+        ],
+        "questionEn": "The ╴╴╴ is a relative measure among all variables that is indicative of each variable's discriminating power."
+      },
+      {
+        "id": "q_0244",
+        "sourceLabels": [
+          "2002&2008"
+        ],
+        "questionEn": "The ________ is a relative measure among all variables that is indicative of each variable's discriminant power."
+      }
+    ],
+    "years": [
+      "2002",
+      "2008",
+      "2016",
+      "2017",
+      "2018",
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "answers": [
+      "Potency index"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_048",
+    "canonicalQuestion": "________ is a procedure used to validate the results of the discriminant analysis. It divides the sample into two parts: the analysis sample and the holdout sample.",
+    "members": [
+      {
+        "id": "q_0067",
+        "sourceLabels": [
+          "2024"
+        ],
+        "questionEn": "________ is a procedure used to validate the results of the discriminant analysis. It divides the sample into two parts: the analysis sample and the holdout sample."
+      },
+      {
+        "id": "q_0146",
+        "sourceLabels": [
+          "2020"
+        ],
+        "questionEn": "╴╴╴ is a procedure used to validate the results of the discriminant analysis. It divides the sample into two parts: the analysis sample and the holdout sample."
+      },
+      {
+        "id": "q_0171",
+        "sourceLabels": [
+          "2019"
+        ],
+        "questionEn": "______ is a procedure used to validate the results of the discriminant analysis. It divides the sample into two parts: the analysis sample and the holdout sample."
+      }
+    ],
+    "years": [
+      "2019",
+      "2020",
+      "2024"
+    ],
+    "answers": [
+      "Cross validation"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_051",
+    "canonicalQuestion": "________ is a variable assessing if respondents perceive manipulation correctly. Done solely to validate the manipulation, not impact on outcome.",
+    "members": [
+      {
+        "id": "q_0071",
+        "sourceLabels": [
+          "2024"
+        ],
+        "questionEn": "________ is a variable assessing if respondents perceive manipulation correctly. Done solely to validate the manipulation, not impact on outcome."
+      },
+      {
+        "id": "q_0149",
+        "sourceLabels": [
+          "2020"
+        ],
+        "questionEn": "╴╴╴ is a variable assessing if respondents perceive manipulation correctly. Done solely to validate the manipulation, not impact on outcome."
+      }
+    ],
+    "years": [
+      "2020",
+      "2024"
+    ],
+    "answers": [
+      "Manipulation check"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_054",
+    "canonicalQuestion": "To further identify differences between individual groups in MANOVA, the researcher usually specifies the groups to be compared through a ________, which is just a combination of group means that represent a specific planned comparison.",
+    "members": [
+      {
+        "id": "q_0077",
+        "sourceLabels": [
+          "2024"
+        ],
+        "questionEn": "To further identify differences between individual groups in MANOVA, the researcher usually specifies the groups to be compared through a ________, which is just a combination of group means that represent a specific planned comparison."
+      },
+      {
+        "id": "q_0097",
+        "sourceLabels": [
+          "2023"
+        ],
+        "questionEn": "To further identify differences between individual groups in MANOVA, the researcher usually specifies the groups to be compared through a ______, which is just a combination of group means that represent a specific planned comparison."
+      },
+      {
+        "id": "q_0124",
+        "sourceLabels": [
+          "2022&2021"
+        ],
+        "questionEn": "To further identify differences between individual groups in MANOVA, the researcher usually specifies the groups to be compared through a ________, which is just a combination of group means that represent a specific planned comparison."
+      },
+      {
+        "id": "q_0196",
+        "sourceLabels": [
+          "2018"
+        ],
+        "questionEn": "To further identify differences between individual groups in MANOVA, the researcher usually specifies the groups to be compared through a ______, which is just a combination of group means that represent a specific planned comparison."
+      }
+    ],
+    "years": [
+      "2018",
+      "2021",
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "answers": [
+      "contrast analysis"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_055",
+    "canonicalQuestion": "________ of the discriminant functions is most likely needed when we interpret two or more functions.",
+    "members": [
+      {
+        "id": "q_0078",
+        "sourceLabels": [
+          "2024"
+        ],
+        "questionEn": "________ of the discriminant functions is most likely needed when we interpret two or more functions."
+      },
+      {
+        "id": "q_0087",
+        "sourceLabels": [
+          "2023"
+        ],
+        "questionEn": "______ of the discriminant functions is most likely needed when we interpret two or more functions."
+      },
+      {
+        "id": "q_0169",
+        "sourceLabels": [
+          "2019"
+        ],
+        "questionEn": "______ of the discriminant functions is most likely needed when we interpret two or more functions."
+      }
+    ],
+    "years": [
+      "2019",
+      "2023",
+      "2024"
+    ],
+    "answers": [
+      "Potency index"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_056",
+    "canonicalQuestion": "The objective of the ________ is to eliminate any effects that: (1) affect only a portion of the respondents; (2) vary among the respondents.",
+    "members": [
+      {
+        "id": "q_0079",
+        "sourceLabels": [
+          "2024"
+        ],
+        "questionEn": "The objective of the ________ is to eliminate any effects that: (1) affect only a portion of the respondents; (2) vary among the respondents."
+      },
+      {
+        "id": "q_0173",
+        "sourceLabels": [
+          "2019"
+        ],
+        "questionEn": "The objective of the ______ is to eliminate any effects that: (1) affect only a portion of the respondents; (2) vary among the respondents."
+      }
+    ],
+    "years": [
+      "2019",
+      "2024"
+    ],
+    "answers": [
+      "covariate"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_060",
+    "canonicalQuestion": "The analysis sample is used to develop the discriminant function and the ________ is used to test the discriminant function.",
+    "members": [
+      {
+        "id": "q_0085",
+        "sourceLabels": [
+          "2023"
+        ],
+        "questionEn": "The analysis sample is used to develop the discriminant function and the ______ is used to test the discriminant function."
+      },
+      {
+        "id": "q_0122",
+        "sourceLabels": [
+          "2022&2021"
+        ],
+        "questionEn": "The analysis sample is used to develop the discriminant function and the ________ is used to test the discriminant function."
+      },
+      {
+        "id": "q_0188",
+        "sourceLabels": [
+          "2018"
+        ],
+        "questionEn": "The analysis sample is used to develop the discriminant function and the ______ is used to test the discriminant function."
+      },
+      {
+        "id": "q_0205",
+        "sourceLabels": [
+          "2017"
+        ],
+        "questionEn": "The analysis sample is used to develop the discriminant function and the ______ is used to test the discriminant function."
+      },
+      {
+        "id": "q_0221",
+        "sourceLabels": [
+          "2016"
+        ],
+        "questionEn": "The analysis sample is used to develop the discriminant function and the ╴╴╴ is used to test the discriminant function."
+      },
+      {
+        "id": "q_0250",
+        "sourceLabels": [
+          "2002&2008"
+        ],
+        "questionEn": "The analysis sample is used to develop the discriminant function and the ________ is used to test the discriminant function."
+      }
+    ],
+    "years": [
+      "2002",
+      "2008",
+      "2016",
+      "2017",
+      "2018",
+      "2021",
+      "2022",
+      "2023"
+    ],
+    "answers": [
+      "holdout sample"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_062",
+    "canonicalQuestion": "The purpose of a ________ design is to control for individual-level differences that may affect the within-group variance. It is a form of respondent's lack of independence.",
+    "members": [
+      {
+        "id": "q_0092",
+        "sourceLabels": [
+          "2023"
+        ],
+        "questionEn": "The purpose of a ______ design is to control for individual-level differences that may affect the within-group variance. It is a form of respondent's lack of independence."
+      },
+      {
+        "id": "q_0126",
+        "sourceLabels": [
+          "2022&2021"
+        ],
+        "questionEn": "The purpose of a ________ design is to control for individual-level differences that may affect the within-group variance. It is a form of respondent's lack of independence."
+      },
+      {
+        "id": "q_0199",
+        "sourceLabels": [
+          "2018"
+        ],
+        "questionEn": "The purpose of a ______ design is to control for individual-level differences that may affect the within-group variance. It is a form of respondent's lack of independence."
+      },
+      {
+        "id": "q_0254",
+        "sourceLabels": [
+          "2002&2008"
+        ],
+        "questionEn": "The purpose of a ________ design is to control for individual-level differences that may affect the within-group variance. It is a form of respondent's lack of independence."
+      }
+    ],
+    "years": [
+      "2002",
+      "2008",
+      "2018",
+      "2021",
+      "2022",
+      "2023"
+    ],
+    "answers": [
+      "repeated measures"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_064",
+    "canonicalQuestion": "Discriminant analysis and logistic regression are the appropriate statistical techniques when the dependent variable is ________ and the independent variables are ________. The dependent variables may consist of two groups or multiple three or more groups. Logistic regression, also known as ________, is limited in its basic form to two groups.",
+    "members": [
+      {
+        "id": "q_0100",
+        "sourceLabels": [
+          "2022&2021"
+        ],
+        "questionEn": "Discriminant analysis and logistic regression are the appropriate statistical techniques when the dependent variable is ________ and the independent variables are ________. The dependent variables may consist of two groups or multiple three or more groups. Logistic regression, also known as ________, is limited in its basic form to two groups."
+      },
+      {
+        "id": "q_0239",
+        "sourceLabels": [
+          "2002&2008"
+        ],
+        "questionEn": "Discriminant analysis and logistic regression are the appropriate statistical techniques when the dependent variable is ________ and the independent variables are ________. Logistic regression, also known as ________, is limited in its basic form to two groups."
+      }
+    ],
+    "years": [
+      "2002",
+      "2008",
+      "2021",
+      "2022"
+    ],
+    "answers": [
+      "categorical variable",
+      "metric variables",
+      "logit analysis"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_065",
+    "canonicalQuestion": "________ is a composite measure of the discriminating power of an independent variable when more than one discriminant function is estimated.",
+    "members": [
+      {
+        "id": "q_0101",
+        "sourceLabels": [
+          "2022&2021"
+        ],
+        "questionEn": "________ is a composite measure of the discriminating power of an independent variable when more than one discriminant function is estimated."
+      },
+      {
+        "id": "q_0243",
+        "sourceLabels": [
+          "2002&2008"
+        ],
+        "questionEn": "________ is a composite measure of the discriminating power of an independent variable when more than one discriminant function is estimated."
+      }
+    ],
+    "years": [
+      "2002",
+      "2008",
+      "2021",
+      "2022"
+    ],
+    "answers": [
+      "Potency index"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_067",
+    "canonicalQuestion": "Univariate procedures for assessing the differences between group means include the ________ for two-group situations and ________ for situations with three or more groups.",
+    "members": [
+      {
+        "id": "q_0103",
+        "sourceLabels": [
+          "2022&2021"
+        ],
+        "questionEn": "Univariate procedures for assessing the differences between group means include the ________ for two-group situations and ________ for situations with three or more groups."
+      },
+      {
+        "id": "q_0256",
+        "sourceLabels": [
+          "2002&2008"
+        ],
+        "questionEn": "Univariate procedures for assessing the differences between group means include the ________ for two-group situations and ________ for situations with three or more groups."
+      }
+    ],
+    "years": [
+      "2002",
+      "2008",
+      "2021",
+      "2022"
+    ],
+    "answers": [
+      "t test",
+      "ANOVA"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_068",
+    "canonicalQuestion": "In some aspects, ________ and ________ are “mirror images”.",
+    "members": [
+      {
+        "id": "q_0104",
+        "sourceLabels": [
+          "2022&2021"
+        ],
+        "questionEn": "In some aspects, ________ and ________ are “mirror images”."
+      },
+      {
+        "id": "q_0258",
+        "sourceLabels": [
+          "2002&2008"
+        ],
+        "questionEn": "In some aspects, ________ and ________ are “mirror images.”"
+      }
+    ],
+    "years": [
+      "2002",
+      "2008",
+      "2021",
+      "2022"
+    ],
+    "answers": [
+      "MANOVA",
+      "discriminant analysis"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_069",
+    "canonicalQuestion": "________ is appropriate to eliminate some systematic error outside the control of the researcher that can bias the results.",
+    "members": [
+      {
+        "id": "q_0105",
+        "sourceLabels": [
+          "2022&2021"
+        ],
+        "questionEn": "________ is appropriate to some systematic error outside the control of the researcher that can bias the results."
+      },
+      {
+        "id": "q_0259",
+        "sourceLabels": [
+          "2002&2008"
+        ],
+        "questionEn": "________ is appropriate to eliminate some systematic error outside the control of the researcher that can bias the results."
+      }
+    ],
+    "years": [
+      "2002",
+      "2008",
+      "2021",
+      "2022"
+    ],
+    "answers": [
+      "Covariance analysis"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_070",
+    "canonicalQuestion": "For the multivariate test procedures of MANOVA to be valid, three assumptions must be met: (1) the observations must be ________, (2) the variance covariance matrices must be equal for all treatment groups, and (3) the set of p-dependent variables must follow a ________ distribution.",
+    "members": [
+      {
+        "id": "q_0106",
+        "sourceLabels": [
+          "2022&2021"
+        ],
+        "questionEn": "For the multivariate test procedure of MANOVA to be valid, three assumptions must be met: (1) the observations must be ________, (2) the variance covariance matrices must be equal for all treatment groups, and (3) the set of p-dependent variables must follow a ________ distribution."
+      },
+      {
+        "id": "q_0260",
+        "sourceLabels": [
+          "2002&2008"
+        ],
+        "questionEn": "For the multivariate test procedures of MANOVA to be valid, three assumptions must be met: (1) the observations must be ________, (2) the variance covariance matrices must be equal for all treatment groups, and (3) the set of p-dependent variables must follow a ________ distribution."
+      }
+    ],
+    "years": [
+      "2002",
+      "2008",
+      "2021",
+      "2022"
+    ],
+    "answers": [
+      "independent",
+      "multivariate normal"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_071",
+    "canonicalQuestion": "In any univariate ANOVA design, metric independent variables, referred to as ________, can be included. The design is then termed an analysis of covariance ANCOVA.",
+    "members": [
+      {
+        "id": "q_0107",
+        "sourceLabels": [
+          "2022&2021"
+        ],
+        "questionEn": "In any univariate ANOVA design, metric independent variables, referred to as ________, can be included. The design is then termed an analysis of covariance ANCOVA."
+      },
+      {
+        "id": "q_0261",
+        "sourceLabels": [
+          "2002&2008"
+        ],
+        "questionEn": "In any univariate ANOVA design, metric independent variables, referred to as ________, can be included. The design is then termed an analysis of covariance ANCOVA."
+      }
+    ],
+    "years": [
+      "2002",
+      "2008",
+      "2021",
+      "2022"
+    ],
+    "answers": [
+      "covariates"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_072",
+    "canonicalQuestion": "A ________ is a non-metric characteristic used post hoc to segment the respondents to obtain greater within-group homogeneity and reduce the MSW source of variance.",
+    "members": [
+      {
+        "id": "q_0108",
+        "sourceLabels": [
+          "2022&2021"
+        ],
+        "questionEn": "A ________ is a non-metric characteristic used post hoc to segment the respondents to obtain greater within-group homogeneity and reduce the MSW source of variance."
+      },
+      {
+        "id": "q_0262",
+        "sourceLabels": [
+          "2002&2008"
+        ],
+        "questionEn": "A ________ is a nonmetric characteristic used post hoc to segment the respondents to obtain greater within-group homogeneity and reduce the MSW source of variance."
+      }
+    ],
+    "years": [
+      "2002",
+      "2008",
+      "2021",
+      "2022"
+    ],
+    "answers": [
+      "blocking factor"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_073",
+    "canonicalQuestion": "________ is a statistical test for the equality of the variance/covariance matrices of the dependent variables across the groups.",
+    "members": [
+      {
+        "id": "q_0109",
+        "sourceLabels": [
+          "2022&2021"
+        ],
+        "questionEn": "________ is statistical test for the equality of the variance/covariance matrices of the dependent variables across the groups."
+      },
+      {
+        "id": "q_0264",
+        "sourceLabels": [
+          "2002&2008"
+        ],
+        "questionEn": "________ is a statistical test for the equality of the variance/covariance matrices of the dependent variables across the groups."
+      }
+    ],
+    "years": [
+      "2002",
+      "2008",
+      "2021",
+      "2022"
+    ],
+    "answers": [
+      "Box's M"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_078",
+    "canonicalQuestion": "To apply discriminant analysis, the researcher should focus on the dependent variable first. The number of dependent variable groups can be two or more, but these groups must be ________ and ________.",
+    "members": [
+      {
+        "id": "q_0115",
+        "sourceLabels": [
+          "2022&2021"
+        ],
+        "questionEn": "To apply discriminant analysis, the researcher should focus on the dependent variable first. The number of dependent variable groups can be two or more, but these groups must be ________ and ________."
+      },
+      {
+        "id": "q_0189",
+        "sourceLabels": [
+          "2018"
+        ],
+        "questionEn": "To apply discriminant analysis, the researcher should focus on the dependent variable first. The number of dependent variable groups can be two or more, but these groups must be ______ and ______."
+      },
+      {
+        "id": "q_0222",
+        "sourceLabels": [
+          "2016"
+        ],
+        "questionEn": "To apply discriminant analysis, the researcher should focus on the dependent variable first. The number of dependent variable groups can be two or more, but these groups must be ╴╴╴ and ╴╴╴."
+      },
+      {
+        "id": "q_0241",
+        "sourceLabels": [
+          "2002&2008"
+        ],
+        "questionEn": "To apply discriminant analysis, the researcher should focus on the dependent variable first. The number of dependent variable groups can be two or more, but these groups must be ________ and ________."
+      }
+    ],
+    "years": [
+      "2002",
+      "2008",
+      "2016",
+      "2018",
+      "2021",
+      "2022"
+    ],
+    "answers": [
+      "mutually exclusive",
+      "exhaustive"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_079",
+    "canonicalQuestion": "With multiple discriminant analysis, the ________ is analogous to regression's R2. It reveals how well the discriminant function classified the objects.",
+    "members": [
+      {
+        "id": "q_0120",
+        "sourceLabels": [
+          "2022&2021"
+        ],
+        "questionEn": "With multiple discriminant analysis, the ________ is analogous to regression's R2. It reveals how well the discriminant function classified the objects."
+      },
+      {
+        "id": "q_0191",
+        "sourceLabels": [
+          "2018"
+        ],
+        "questionEn": "With multiple discriminant analysis, the ______ is analogous to regression's R2. It reveals how well the discriminant function classified the objects."
+      },
+      {
+        "id": "q_0207",
+        "sourceLabels": [
+          "2017"
+        ],
+        "questionEn": "With multiple discriminant analysis, the ______ is analogous to regression's R2. It reveals how well the discriminant function classified the objects."
+      },
+      {
+        "id": "q_0223",
+        "sourceLabels": [
+          "2016"
+        ],
+        "questionEn": "With multiple discriminant analysis, the ╴╴╴ is analogous to regression's R2. It reveals how well the discriminant function classified the objects."
+      },
+      {
+        "id": "q_0248",
+        "sourceLabels": [
+          "2002&2008"
+        ],
+        "questionEn": "With multiple discriminant analysis, the ________ is analogous to regression's R2. It reveals how well the discriminant function classified the objects."
+      }
+    ],
+    "years": [
+      "2002",
+      "2008",
+      "2016",
+      "2017",
+      "2018",
+      "2021",
+      "2022"
+    ],
+    "answers": [
+      "hit ratio"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_080",
+    "canonicalQuestion": "________ is the exclusion of relevant and inclusion of irrelevant independent variables.",
+    "members": [
+      {
+        "id": "q_0129",
+        "sourceLabels": [
+          "2022&2021"
+        ],
+        "questionEn": "________ is the exclusion of relevant and inclusion of irrelevant independent variables."
+      },
+      {
+        "id": "q_0133",
+        "sourceLabels": [
+          "2020"
+        ],
+        "questionEn": "╴╴╴ is the exclusion of relevant (and inclusion of irrelevant) independent variables."
+      }
+    ],
+    "years": [
+      "2020",
+      "2021",
+      "2022"
+    ],
+    "answers": [
+      "Specification error"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_081",
+    "canonicalQuestion": "________ tests statistical significance of the overall regression model.",
+    "members": [
+      {
+        "id": "q_0130",
+        "sourceLabels": [
+          "2022&2021"
+        ],
+        "questionEn": "________ tests statistical significance of the overall regression model."
+      },
+      {
+        "id": "q_0135",
+        "sourceLabels": [
+          "2020"
+        ],
+        "questionEn": "╴╴╴ tests statistical significance of overall regression model."
+      }
+    ],
+    "years": [
+      "2020",
+      "2021",
+      "2022"
+    ],
+    "answers": [
+      "F ratio"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_082",
+    "canonicalQuestion": "________ measures how much the variance of the regression coefficients is inflated by multicollinearity problems.",
+    "members": [
+      {
+        "id": "q_0131",
+        "sourceLabels": [
+          "2022&2021"
+        ],
+        "questionEn": "________ measures how much the variance of the regression coefficients is inflated by multicollinearity problems."
+      },
+      {
+        "id": "q_0137",
+        "sourceLabels": [
+          "2020"
+        ],
+        "questionEn": "╴╴╴ measures how much the variance of the regression coefficients is inflated by multicollinearity problems."
+      }
+    ],
+    "years": [
+      "2020",
+      "2021",
+      "2022"
+    ],
+    "answers": [
+      "VIF"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_084",
+    "canonicalQuestion": "Assumptions in multiple regression analysis include ╴╴╴, constant variance of the error terms, independence of the error terms, and normality of the error term distribution.",
+    "members": [
+      {
+        "id": "q_0134",
+        "sourceLabels": [
+          "2020"
+        ],
+        "questionEn": "Assumptions in multiple regression analysis include ╴╴╴, constant variance of the error terms, independence of the error terms, and normality of the error term distribution."
+      },
+      {
+        "id": "q_0227",
+        "sourceLabels": [
+          "2015"
+        ],
+        "questionEn": "Assumptions in multiple regression analysis include ╴╴╴, constant variance of the error terms, independence of the error terms, and normality of the error term distribution."
+      }
+    ],
+    "years": [
+      "2015",
+      "2020"
+    ],
+    "answers": [
+      "Linearity"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_085",
+    "canonicalQuestion": "There are several approaches to assist the researcher in finding the best regression model. The ______ computes a regression equation with all the independent variables, and then deletes independent variables that do not contribute significantly.",
+    "members": [
+      {
+        "id": "q_0136",
+        "sourceLabels": [
+          "2020"
+        ],
+        "questionEn": "There are several approaches to assist the researcher in finding the best regression model. The ╴╴╴ computes a regression equation with all the independent variables, and then deletes independent variables that do not contribute significantly."
+      },
+      {
+        "id": "q_0161",
+        "sourceLabels": [
+          "2019"
+        ],
+        "questionEn": "There are several approaches to assist the researcher in finding the best regression model. The ______ computes a regression equation with all the independent variables, and then deletes independent variables that do not contribute significantly."
+      },
+      {
+        "id": "q_0213",
+        "sourceLabels": [
+          "2016"
+        ],
+        "questionEn": "There are several approaches to assist the researcher in finding the best regression model. The ╴╴╴ computes a regression equation with all the independent variables, and then deletes independent variables that do not contribute significantly."
+      },
+      {
+        "id": "q_0229",
+        "sourceLabels": [
+          "2015"
+        ],
+        "questionEn": "There are several approaches to assist the researcher in finding the best regression model. The ╴╴╴ computes a regression equation with all the independent variables, and then deletes independent variables that do not contribute significantly."
+      }
+    ],
+    "years": [
+      "2015",
+      "2016",
+      "2019",
+      "2020"
+    ],
+    "answers": [
+      "backward elimination"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_086",
+    "canonicalQuestion": "Standardized regression coefficient is also called ______ coefficient.",
+    "members": [
+      {
+        "id": "q_0138",
+        "sourceLabels": [
+          "2020"
+        ],
+        "questionEn": "Standardized regression coefficient is also called ╴╴╴ coefficient."
+      },
+      {
+        "id": "q_0163",
+        "sourceLabels": [
+          "2019"
+        ],
+        "questionEn": "Standardized regression coefficient is also called ______ coefficient."
+      },
+      {
+        "id": "q_0232",
+        "sourceLabels": [
+          "2015"
+        ],
+        "questionEn": "Standardized regression coefficient is also called ╴╴╴ coefficient."
+      }
+    ],
+    "years": [
+      "2015",
+      "2019",
+      "2020"
+    ],
+    "answers": [
+      "beta"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_091",
+    "canonicalQuestion": "______ is an independent variable factor that a researcher manipulates to see the effect, if any, to the dependent variables.",
+    "members": [
+      {
+        "id": "q_0155",
+        "sourceLabels": [
+          "2020"
+        ],
+        "questionEn": "╴╴╴ is an independent variable factor that a researcher manipulates to see the effect if any to the dependent variables."
+      },
+      {
+        "id": "q_0180",
+        "sourceLabels": [
+          "2019"
+        ],
+        "questionEn": "______ is an independent variable factor that a researcher manipulates to see the effect, if any, to the dependent variables."
+      }
+    ],
+    "years": [
+      "2019",
+      "2020"
+    ],
+    "answers": [
+      "Treatment"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_097",
+    "canonicalQuestion": "To test the hypothesis that the amount of variation explained by the regression model is more than the variation explained by the average, the ______ is used.",
+    "members": [
+      {
+        "id": "q_0162",
+        "sourceLabels": [
+          "2019"
+        ],
+        "questionEn": "To test the hypothesis that the amount of variation explained by the regression model is more than the variation explained by the average, the ______ is used."
+      },
+      {
+        "id": "q_0214",
+        "sourceLabels": [
+          "2016"
+        ],
+        "questionEn": "To test the hypothesis that the amount of variation explained by the regression model is more than the variation explained by the average, the ╴╴╴ is used."
+      },
+      {
+        "id": "q_0230",
+        "sourceLabels": [
+          "2015"
+        ],
+        "questionEn": "To test the hypothesis that the amount of variation explained by the regression model is more than the variation explained by the average, the ╴╴╴ is used."
+      }
+    ],
+    "years": [
+      "2015",
+      "2016",
+      "2019"
+    ],
+    "answers": [
+      "F test"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_100",
+    "canonicalQuestion": "Two methods to assess the dependent variate are ______ and ______.",
+    "members": [
+      {
+        "id": "q_0177",
+        "sourceLabels": [
+          "2019"
+        ],
+        "questionEn": "Two methods to assess the dependent variate are ______ and ______."
+      },
+      {
+        "id": "q_0194",
+        "sourceLabels": [
+          "2018"
+        ],
+        "questionEn": "Two methods to assess the dependent variate are ______ and ______."
+      }
+    ],
+    "years": [
+      "2018",
+      "2019"
+    ],
+    "answers": [
+      "Bonferroni inequality",
+      "stepdown analysis"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_101",
+    "canonicalQuestion": "Post hoc methods to identify differences between individual groups include ______, ______, and ______.",
+    "members": [
+      {
+        "id": "q_0178",
+        "sourceLabels": [
+          "2019"
+        ],
+        "questionEn": "Post hoc methods to identify differences between individual groups include ______, ______ and ______."
+      },
+      {
+        "id": "q_0195",
+        "sourceLabels": [
+          "2018"
+        ],
+        "questionEn": "Post hoc methods to identify differences between individual groups include ______, ______, and ______."
+      }
+    ],
+    "years": [
+      "2018",
+      "2019"
+    ],
+    "answers": [
+      "Scheffe's method",
+      "Tukey's LSD",
+      "Duncan's test"
+    ]
+  },
+  {
+    "duplicateGroupId": "dup_107",
+    "canonicalQuestion": "Two of the more common measures for assessing both pairwise and multiple variable collinearity are (1) ╴╴╴ and (2) its inverse — the variance inflation factor VIF.",
+    "members": [
+      {
+        "id": "q_0215",
+        "sourceLabels": [
+          "2016"
+        ],
+        "questionEn": "Two of the more common measures for assessing both pairwise and multiple variable collinearity are (1) ╴╴╴ and (2) its inverse — the variance inflation factor VIF."
+      },
+      {
+        "id": "q_0231",
+        "sourceLabels": [
+          "2015"
+        ],
+        "questionEn": "Two of the more common measures for assessing both pairwise and multiple variable collinearity are (1) ╴╴╴ and (2) its inverse — the variance inflation factor VIF."
+      }
+    ],
+    "years": [
+      "2015",
+      "2016"
+    ],
+    "answers": [
+      "tolerance"
+    ]
+  }
+]

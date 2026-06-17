@@ -1,0 +1,802 @@
+[
+  {
+    "id": "q_0089",
+    "chapter": "Ch6",
+    "years": [
+      "2019",
+      "2020",
+      "2023"
+    ],
+    "sourceLabels": [
+      "Exercise_Ch6",
+      "2023",
+      "2020",
+      "2019"
+    ],
+    "questionEn": "In an experimental research, ______ is an independent variable which is hypothesized as the reason/“cause” of the outcome variable.",
+    "questionZh": "【MANOVA】填空題（共 1 格）：請依英文題目作答。",
+    "answers": [
+      "treatment"
+    ],
+    "acceptedAnswers": [
+      [
+        "Treatment",
+        "factor"
+      ]
+    ],
+    "blankCount": 1,
+    "difficulty": "easy",
+    "tags": [
+      "MANOVA"
+    ],
+    "isMakeupExam": false,
+    "canonicalQuestion": "In an experimental research, ______ is an independent variable which is hypothesized as the reason/“cause” of the outcome variable.",
+    "duplicateGroupId": "dup_001"
+  },
+  {
+    "id": "q_0011",
+    "chapter": "Ch7",
+    "years": [
+      "2025"
+    ],
+    "sourceLabels": [
+      "Exercise_Ch7",
+      "2025(補考)"
+    ],
+    "questionEn": "Discriminant analysis is an appropriate statistical technique when the dependent variable is a ______ variable with two or more levels, and the independent variables are ______ variables.",
+    "questionZh": "【Discriminant Analysis】填空題（共 2 格）：請依英文題目作答。",
+    "answers": [
+      "categorical (nominal or nonmetric)",
+      "metric"
+    ],
+    "acceptedAnswers": [
+      [
+        "categorical (nominal or nonmetric)",
+        "categorical nominal or nonmetric variable"
+      ],
+      [
+        "metric"
+      ]
+    ],
+    "blankCount": 2,
+    "difficulty": "normal",
+    "tags": [
+      "Discriminant Analysis"
+    ],
+    "isMakeupExam": true,
+    "canonicalQuestion": "Discriminant analysis is an appropriate statistical technique when the dependent variable is a ______ variable with two or more levels, and the independent variables are ______ variables.",
+    "duplicateGroupId": "dup_010"
+  },
+  {
+    "id": "q_0012",
+    "chapter": "Ch7",
+    "years": [],
+    "sourceLabels": [
+      "Exercise_Ch7"
+    ],
+    "questionEn": "______ is a linear combination of the two or more independent variables to discriminate best between the objects in the groups defined a priori.",
+    "questionZh": "【Discriminant Analysis】填空題（共 1 格）：請依英文題目作答。",
+    "answers": [
+      "The discriminant variate"
+    ],
+    "acceptedAnswers": [
+      [
+        "The discriminant variate",
+        "discriminant function"
+      ]
+    ],
+    "blankCount": 1,
+    "difficulty": "easy",
+    "tags": [
+      "Discriminant Analysis"
+    ],
+    "isMakeupExam": false,
+    "canonicalQuestion": "______ is a linear combination of the two or more independent variables to discriminate best between the objects in the groups defined a priori.",
+    "duplicateGroupId": "dup_011"
+  },
+  {
+    "id": "q_0013",
+    "chapter": "Ch7",
+    "years": [],
+    "sourceLabels": [
+      "Exercise_Ch7"
+    ],
+    "questionEn": "The dependent variable of discriminant analysis should be ______ and ______, representing groups of objects that are expected to differ on the independent variables. The independent variables must identify differences between at least ______ groups.",
+    "questionZh": "【Discriminant Analysis】填空題（共 3 格）：請依英文題目作答。",
+    "answers": [
+      "nonmetric",
+      "mutually exclusive",
+      "two"
+    ],
+    "acceptedAnswers": [
+      [
+        "nonmetric"
+      ],
+      [
+        "mutually exclusive"
+      ],
+      [
+        "two"
+      ]
+    ],
+    "blankCount": 3,
+    "difficulty": "hard",
+    "tags": [
+      "Discriminant Analysis"
+    ],
+    "isMakeupExam": false,
+    "canonicalQuestion": "The dependent variable of discriminant analysis should be ______ and ______, representing groups of objects that are expected to differ on the independent variables. The independent variables must identify differences between at least ______ groups.",
+    "duplicateGroupId": "dup_012"
+  },
+  {
+    "id": "q_0033",
+    "chapter": "Ch9",
+    "years": [
+      "2025"
+    ],
+    "sourceLabels": [
+      "2025",
+      "2025(補考)"
+    ],
+    "questionEn": "SEM involves measurement model and ╴╴╴.",
+    "questionZh": "【SEM】填空題（共 1 格）：請依英文題目作答。",
+    "answers": [
+      "structural model"
+    ],
+    "acceptedAnswers": [
+      [
+        "structural model"
+      ]
+    ],
+    "blankCount": 1,
+    "difficulty": "easy",
+    "tags": [
+      "SEM"
+    ],
+    "isMakeupExam": true,
+    "canonicalQuestion": "SEM involves measurement model and ╴╴╴.",
+    "duplicateGroupId": "dup_026"
+  },
+  {
+    "id": "q_0035",
+    "chapter": "Ch9/Ch11",
+    "years": [
+      "2025"
+    ],
+    "sourceLabels": [
+      "2025",
+      "2025(補考)"
+    ],
+    "questionEn": "A structural model showing only the ╴╴╴ constructs.",
+    "questionZh": "【SEM】填空題（共 1 格）：請依英文題目作答。",
+    "answers": [
+      "latent"
+    ],
+    "acceptedAnswers": [
+      [
+        "latent"
+      ]
+    ],
+    "blankCount": 1,
+    "difficulty": "easy",
+    "tags": [
+      "SEM"
+    ],
+    "isMakeupExam": true,
+    "canonicalQuestion": "A structural model showing only the ╴╴╴ constructs.",
+    "duplicateGroupId": "dup_028"
+  },
+  {
+    "id": "q_0037",
+    "chapter": "Ch10",
+    "years": [
+      "2025"
+    ],
+    "sourceLabels": [
+      "2025",
+      "2025(補考)"
+    ],
+    "questionEn": "╴╴╴ is a way of testing how well a user-specified measurement theory composed of patterns among measured variables and factors fits reality as captured by data.",
+    "questionZh": "【CFA】填空題（共 1 格）：請依英文題目作答。",
+    "answers": [
+      "Confirmatory Factor Analysis"
+    ],
+    "acceptedAnswers": [
+      [
+        "Confirmatory Factor Analysis",
+        "CFA"
+      ]
+    ],
+    "blankCount": 1,
+    "difficulty": "easy",
+    "tags": [
+      "CFA"
+    ],
+    "isMakeupExam": true,
+    "canonicalQuestion": "╴╴╴ is a way of testing how well a user-specified measurement theory composed of patterns among measured variables and factors fits reality as captured by data.",
+    "duplicateGroupId": "dup_030"
+  },
+  {
+    "id": "q_0039",
+    "chapter": "Ch12",
+    "years": [
+      "2025"
+    ],
+    "sourceLabels": [
+      "2025",
+      "2025(補考)"
+    ],
+    "questionEn": "╴╴╴ scales imply that the measured variables cause the factors, which would no longer be latent.",
+    "questionZh": "【SEM、CFA】填空題（共 1 格）：請依英文題目作答。",
+    "answers": [
+      "Formative"
+    ],
+    "acceptedAnswers": [
+      [
+        "Formative"
+      ]
+    ],
+    "blankCount": 1,
+    "difficulty": "easy",
+    "tags": [
+      "SEM",
+      "CFA"
+    ],
+    "isMakeupExam": true,
+    "canonicalQuestion": "╴╴╴ scales imply that the measured variables cause the factors, which would no longer be latent.",
+    "duplicateGroupId": "dup_032"
+  },
+  {
+    "id": "q_0048",
+    "chapter": "Ch1/Ch6",
+    "years": [
+      "2025"
+    ],
+    "sourceLabels": [
+      "2025(補考)"
+    ],
+    "questionEn": "Power is determined as a function of the statistical significance level α set by the researcher for a ╴╴╴, the sample size used in the analysis, and the effect size being examined.",
+    "questionZh": "【多變量分析】填空題（共 1 格）：請依英文題目作答。",
+    "answers": [
+      "Type I error"
+    ],
+    "acceptedAnswers": [
+      [
+        "Type I error"
+      ]
+    ],
+    "blankCount": 1,
+    "difficulty": "easy",
+    "tags": [
+      "General"
+    ],
+    "isMakeupExam": true,
+    "canonicalQuestion": "Power is determined as a function of the statistical significance level α set by the researcher for a ╴╴╴, the sample size used in the analysis, and the effect size being examined.",
+    "duplicateGroupId": "dup_036"
+  },
+  {
+    "id": "q_0100",
+    "chapter": "Ch7/Ch8",
+    "years": [
+      "2002",
+      "2008",
+      "2021",
+      "2022"
+    ],
+    "sourceLabels": [
+      "2022&2021",
+      "2002&2008"
+    ],
+    "questionEn": "Discriminant analysis and logistic regression are the appropriate statistical techniques when the dependent variable is ________ and the independent variables are ________. The dependent variables may consist of two groups or multiple three or more groups. Logistic regression, also known as ________, is limited in its basic form to two groups.",
+    "questionZh": "【Discriminant Analysis、Multiple Regression】填空題（共 3 格）：請依英文題目作答。",
+    "answers": [
+      "categorical variable",
+      "metric variables",
+      "logit analysis"
+    ],
+    "acceptedAnswers": [
+      [
+        "categorical variable",
+        "categorical"
+      ],
+      [
+        "metric variables"
+      ],
+      [
+        "logit analysis"
+      ]
+    ],
+    "blankCount": 3,
+    "difficulty": "hard",
+    "tags": [
+      "Discriminant Analysis",
+      "Multiple Regression"
+    ],
+    "isMakeupExam": false,
+    "canonicalQuestion": "Discriminant analysis and logistic regression are the appropriate statistical techniques when the dependent variable is ________ and the independent variables are ________. The dependent variables may consist of two groups or multiple three or more groups. Logistic regression, also known as ________, is limited in its basic form to two groups.",
+    "duplicateGroupId": "dup_053"
+  },
+  {
+    "id": "q_0102",
+    "chapter": "Ch7/Ch5",
+    "years": [
+      "2021",
+      "2022"
+    ],
+    "sourceLabels": [
+      "2022&2021"
+    ],
+    "questionEn": "________ is appropriate for research problems in which the dependent variable is categorical, whereas ________ is utilized when the dependent variable is metric.",
+    "questionZh": "【Discriminant Analysis、Multiple Regression】填空題（共 2 格）：請依英文題目作答。",
+    "answers": [
+      "Discriminant analysis",
+      "regression"
+    ],
+    "acceptedAnswers": [
+      [
+        "Discriminant analysis"
+      ],
+      [
+        "regression"
+      ]
+    ],
+    "blankCount": 2,
+    "difficulty": "normal",
+    "tags": [
+      "Discriminant Analysis",
+      "Multiple Regression"
+    ],
+    "isMakeupExam": false,
+    "canonicalQuestion": "________ is appropriate for research problems in which the dependent variable is categorical, whereas ________ is utilized when the dependent variable is metric.",
+    "duplicateGroupId": "dup_054"
+  },
+  {
+    "id": "q_0103",
+    "chapter": "Ch6",
+    "years": [
+      "2002",
+      "2008",
+      "2021",
+      "2022"
+    ],
+    "sourceLabels": [
+      "2022&2021",
+      "2002&2008"
+    ],
+    "questionEn": "Univariate procedures for assessing the differences between group means include the ________ for two-group situations and ________ for situations with three or more groups.",
+    "questionZh": "【多變量分析】填空題（共 2 格）：請依英文題目作答。",
+    "answers": [
+      "t test",
+      "ANOVA"
+    ],
+    "acceptedAnswers": [
+      [
+        "t test"
+      ],
+      [
+        "ANOVA"
+      ]
+    ],
+    "blankCount": 2,
+    "difficulty": "normal",
+    "tags": [
+      "General"
+    ],
+    "isMakeupExam": false,
+    "canonicalQuestion": "Univariate procedures for assessing the differences between group means include the ________ for two-group situations and ________ for situations with three or more groups.",
+    "duplicateGroupId": "dup_055"
+  },
+  {
+    "id": "q_0104",
+    "chapter": "Ch6/Ch7",
+    "years": [
+      "2002",
+      "2008",
+      "2021",
+      "2022"
+    ],
+    "sourceLabels": [
+      "2022&2021",
+      "2002&2008"
+    ],
+    "questionEn": "In some aspects, ________ and ________ are “mirror images”.",
+    "questionZh": "【Discriminant Analysis、MANOVA】填空題（共 2 格）：請依英文題目作答。",
+    "answers": [
+      "MANOVA",
+      "discriminant analysis"
+    ],
+    "acceptedAnswers": [
+      [
+        "MANOVA"
+      ],
+      [
+        "discriminant analysis"
+      ]
+    ],
+    "blankCount": 2,
+    "difficulty": "normal",
+    "tags": [
+      "Discriminant Analysis",
+      "MANOVA"
+    ],
+    "isMakeupExam": false,
+    "canonicalQuestion": "In some aspects, ________ and ________ are “mirror images”.",
+    "duplicateGroupId": "dup_056"
+  },
+  {
+    "id": "q_0110",
+    "chapter": "Canonicalcorrelation",
+    "years": [
+      "2021",
+      "2022"
+    ],
+    "sourceLabels": [
+      "2022&2021"
+    ],
+    "questionEn": "________ is a measure of the strength of the overall relationships between the linear composites canonical variates for the dependent and independent variables.",
+    "questionZh": "【Canonical Correlation】填空題（共 1 格）：請依英文題目作答。",
+    "answers": [
+      "Canonical correlation"
+    ],
+    "acceptedAnswers": [
+      [
+        "Canonical correlation"
+      ]
+    ],
+    "blankCount": 1,
+    "difficulty": "normal",
+    "tags": [
+      "Canonical Correlation"
+    ],
+    "isMakeupExam": false,
+    "canonicalQuestion": "________ is a measure of the strength of the overall relationships between the linear composites canonical variates for the dependent and independent variables.",
+    "duplicateGroupId": "dup_061"
+  },
+  {
+    "id": "q_0129",
+    "chapter": "Ch5",
+    "years": [
+      "2020",
+      "2021",
+      "2022"
+    ],
+    "sourceLabels": [
+      "2022&2021",
+      "2020"
+    ],
+    "questionEn": "________ is the exclusion of relevant and inclusion of irrelevant independent variables.",
+    "questionZh": "【多變量分析】填空題（共 1 格）：請依英文題目作答。",
+    "answers": [
+      "Specification error"
+    ],
+    "acceptedAnswers": [
+      [
+        "Specification error"
+      ]
+    ],
+    "blankCount": 1,
+    "difficulty": "easy",
+    "tags": [
+      "General"
+    ],
+    "isMakeupExam": false,
+    "canonicalQuestion": "________ is the exclusion of relevant and inclusion of irrelevant independent variables.",
+    "duplicateGroupId": "dup_068"
+  },
+  {
+    "id": "q_0157",
+    "chapter": "Ch5",
+    "years": [
+      "2019"
+    ],
+    "sourceLabels": [
+      "2019"
+    ],
+    "questionEn": "For sample size consideration of the ______, the preferred ratio of observations to variables is ______ or ______ to 1.",
+    "questionZh": "【Multiple Regression】填空題（共 3 格）：請依英文題目作答。",
+    "answers": [
+      "multiple regression analysis",
+      "15",
+      "20"
+    ],
+    "acceptedAnswers": [
+      [
+        "multiple regression analysis"
+      ],
+      [
+        "15"
+      ],
+      [
+        "20"
+      ]
+    ],
+    "blankCount": 3,
+    "difficulty": "hard",
+    "tags": [
+      "Multiple Regression"
+    ],
+    "isMakeupExam": false,
+    "canonicalQuestion": "For sample size consideration of the ______, the preferred ratio of observations to variables is ______ or ______ to 1.",
+    "duplicateGroupId": "dup_077"
+  },
+  {
+    "id": "q_0158",
+    "chapter": "Ch5",
+    "years": [
+      "2019"
+    ],
+    "sourceLabels": [
+      "2019"
+    ],
+    "questionEn": "Research problems appropriate for multiple regression are ______ and ______.",
+    "questionZh": "【Multiple Regression】填空題（共 2 格）：請依英文題目作答。",
+    "answers": [
+      "prediction",
+      "explanation"
+    ],
+    "acceptedAnswers": [
+      [
+        "prediction"
+      ],
+      [
+        "explanation"
+      ]
+    ],
+    "blankCount": 2,
+    "difficulty": "normal",
+    "tags": [
+      "Multiple Regression"
+    ],
+    "isMakeupExam": false,
+    "canonicalQuestion": "Research problems appropriate for multiple regression are ______ and ______.",
+    "duplicateGroupId": "dup_078"
+  },
+  {
+    "id": "q_0195",
+    "chapter": "Ch6",
+    "years": [
+      "2018",
+      "2019"
+    ],
+    "sourceLabels": [
+      "2019",
+      "2018"
+    ],
+    "questionEn": "Post hoc methods to identify differences between individual groups include ______, ______, and ______.",
+    "questionZh": "【多變量分析】填空題（共 3 格）：請依英文題目作答。",
+    "answers": [
+      "Scheffe's method",
+      "Tukey's LSD",
+      "Duncan's test"
+    ],
+    "acceptedAnswers": [
+      [
+        "Scheffe method",
+        "Scheffe's method"
+      ],
+      [
+        "Tukey's LSD"
+      ],
+      [
+        "Duncan's test"
+      ]
+    ],
+    "blankCount": 3,
+    "difficulty": "hard",
+    "tags": [
+      "General"
+    ],
+    "isMakeupExam": false,
+    "canonicalQuestion": "Post hoc methods to identify differences between individual groups include ______, ______, and ______.",
+    "duplicateGroupId": "dup_085"
+  },
+  {
+    "id": "q_0181",
+    "chapter": "Ch6",
+    "years": [
+      "2019"
+    ],
+    "sourceLabels": [
+      "2019"
+    ],
+    "questionEn": "The four most widely used measures for assessing statistical significance between groups on the independent variables are: ______, ______, ______ and ______.",
+    "questionZh": "【MANOVA】填空題（共 4 格）：請依英文題目作答。",
+    "answers": [
+      "Roy's Greatest Characteristic Root",
+      "Wilks' lambda",
+      "Pillai's Criterion",
+      "Hotelling's Trace"
+    ],
+    "acceptedAnswers": [
+      [
+        "Roy's Greatest Characteristic Root"
+      ],
+      [
+        "Wilks' lambda"
+      ],
+      [
+        "Pillai's Criterion"
+      ],
+      [
+        "Hotelling's Trace"
+      ]
+    ],
+    "blankCount": 4,
+    "difficulty": "hard",
+    "tags": [
+      "MANOVA"
+    ],
+    "isMakeupExam": false,
+    "canonicalQuestion": "The four most widely used measures for assessing statistical significance between groups on the independent variables are: ______, ______, ______ and ______.",
+    "duplicateGroupId": "dup_086"
+  },
+  {
+    "id": "q_0198",
+    "chapter": "Ch6",
+    "years": [
+      "2018"
+    ],
+    "sourceLabels": [
+      "2018"
+    ],
+    "questionEn": "MANOVA presents the researcher with several criteria with which to assess multivariate differences across groups. The four most popular are ______, ______, ______, and ______.",
+    "questionZh": "【MANOVA】填空題（共 4 格）：請依英文題目作答。",
+    "answers": [
+      "Roy's gcr",
+      "Wilks' λ",
+      "Hotelling's trace",
+      "Pillai's criterion"
+    ],
+    "acceptedAnswers": [
+      [
+        "Roy's gcr"
+      ],
+      [
+        "Wilks' λ"
+      ],
+      [
+        "Hotelling's trace"
+      ],
+      [
+        "Pillai's criterion"
+      ]
+    ],
+    "blankCount": 4,
+    "difficulty": "hard",
+    "tags": [
+      "MANOVA"
+    ],
+    "isMakeupExam": false,
+    "canonicalQuestion": "MANOVA presents the researcher with several criteria with which to assess multivariate differences across groups. The four most popular are ______, ______, ______, and ______.",
+    "duplicateGroupId": "dup_087"
+  },
+  {
+    "id": "q_0201",
+    "chapter": "Ch7",
+    "years": [
+      "2017"
+    ],
+    "sourceLabels": [
+      "2017"
+    ],
+    "questionEn": "Discriminant analysis is the appropriate statistical technique when the dependent variable is ______ and the independent variables are metric.",
+    "questionZh": "【Discriminant Analysis】填空題（共 1 格）：請依英文題目作答。",
+    "answers": [
+      "nonmetric"
+    ],
+    "acceptedAnswers": [
+      [
+        "nonmetric"
+      ]
+    ],
+    "blankCount": 1,
+    "difficulty": "easy",
+    "tags": [
+      "Discriminant Analysis"
+    ],
+    "isMakeupExam": false,
+    "canonicalQuestion": "Discriminant analysis is the appropriate statistical technique when the dependent variable is ______ and the independent variables are metric.",
+    "duplicateGroupId": "dup_088",
+    "rawAnswer": "nonmetric (課本p.474)",
+    "answerNote": "課本p.474"
+  },
+  {
+    "id": "q_0202",
+    "chapter": "Ch7",
+    "years": [
+      "2015",
+      "2016",
+      "2017"
+    ],
+    "sourceLabels": [
+      "2017",
+      "2016",
+      "2015"
+    ],
+    "questionEn": "______ is calculated as the number of objects in the diagonal of the classification matrix divided by the total number of objects.",
+    "questionZh": "【Classification】填空題（共 1 格）：請依英文題目作答。",
+    "answers": [
+      "Hit ratio"
+    ],
+    "acceptedAnswers": [
+      [
+        "Hit ratio"
+      ]
+    ],
+    "blankCount": 1,
+    "difficulty": "easy",
+    "tags": [
+      "Classification"
+    ],
+    "isMakeupExam": false,
+    "canonicalQuestion": "______ is calculated as the number of objects in the diagonal of the classification matrix divided by the total number of objects.",
+    "duplicateGroupId": "dup_089",
+    "rawAnswer": "Hit ratio (課本p.473)",
+    "answerNote": "課本p.473"
+  },
+  {
+    "id": "q_0205",
+    "chapter": "Ch7",
+    "years": [
+      "2016",
+      "2017"
+    ],
+    "sourceLabels": [
+      "2017",
+      "2016"
+    ],
+    "questionEn": "The analysis sample is used to develop the discriminant function and the ______ is used to test the discriminant function.",
+    "questionZh": "【Discriminant Analysis、Classification】填空題（共 1 格）：請依英文題目作答。",
+    "answers": [
+      "holdout sample"
+    ],
+    "acceptedAnswers": [
+      [
+        "holdout sample"
+      ]
+    ],
+    "blankCount": 1,
+    "difficulty": "easy",
+    "tags": [
+      "Discriminant Analysis",
+      "Classification"
+    ],
+    "isMakeupExam": false,
+    "canonicalQuestion": "The analysis sample is used to develop the discriminant function and the ______ is used to test the discriminant function.",
+    "duplicateGroupId": "dup_090",
+    "rawAnswer": "holdout sample (課本p.488)",
+    "answerNote": "課本p.488"
+  },
+  {
+    "id": "q_0206",
+    "chapter": "Ch7",
+    "years": [
+      "2015",
+      "2017"
+    ],
+    "sourceLabels": [
+      "2017",
+      "2015"
+    ],
+    "questionEn": "Discriminant analysis is quite sensitive to the ratio of sample size to the number of predictor variables. Many studies suggest a ratio of ______ observations for each predictor variable. The minimum size recommended is five observations per independent variable.",
+    "questionZh": "【Discriminant Analysis】填空題（共 1 格）：請依英文題目作答。",
+    "answers": [
+      "20"
+    ],
+    "acceptedAnswers": [
+      [
+        "20"
+      ]
+    ],
+    "blankCount": 1,
+    "difficulty": "easy",
+    "tags": [
+      "Discriminant Analysis"
+    ],
+    "isMakeupExam": false,
+    "canonicalQuestion": "Discriminant analysis is quite sensitive to the ratio of sample size to the number of predictor variables. Many studies suggest a ratio of ______ observations for each predictor variable. The minimum size recommended is five observations per independent variable.",
+    "duplicateGroupId": "dup_091",
+    "rawAnswer": "20 (課本p.487)",
+    "answerNote": "課本p.487"
+  }
+]
